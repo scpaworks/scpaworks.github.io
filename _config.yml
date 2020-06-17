@@ -1,0 +1,5 @@
+algolia:
+  application_id: HEEF5DA1XO
+  index_name: index
+
+theme: jekyll-theme-cayman
