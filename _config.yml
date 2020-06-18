@@ -2,6 +2,7 @@
  # application_id: HEEF5DA1XO
  # index_name: index
 
+#Configure theme
 theme: just-the-docs
 title: "SCPa Works Tutorial Hub"
 remote_theme: pmarsceill/just-the-docs
