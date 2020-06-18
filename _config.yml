@@ -3,3 +3,7 @@
  # index_name: index
 
 theme: just-the-docs
+title: "SCPa Works Tutorial Hub"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
