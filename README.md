@@ -1,6 +1,6 @@
-#SCPa Works Tutorial Hub
+# SCPa Works Tutorial Hub
 
-![Image](https://travis-ci.org/scpaworks/scpaworks.github.io.svg?branch=master)
+[![Build Status](https://travis-ci.org/scpaworks/scpaworks.github.io.svg?branch=master)](https://travis-ci.org/scpaworks/scpaworks.github.io)
 
 ## Welcome to GitHub Pages
 

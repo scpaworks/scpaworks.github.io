@@ -1,5 +1,5 @@
-algolia:
-  application_id: HEEF5DA1XO
-  index_name: index
+#algolia:
+ # application_id: HEEF5DA1XO
+ # index_name: index
 
 theme: just-the-docs
