@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/scpaworks/scpaworks.github.io.svg?branch=master)](https://travis-ci.org/scpaworks/scpaworks.github.io)
 
-# Original README Below
+### Original README Below
 
 # Docsy Jekyll Theme
 
