@@ -1,39 +1,98 @@
-![Image](https://travis-ci.org/scpaworks/scpaworks.github.io.svg?branch=master)
+# Docsy Jekyll Theme
 
-## Welcome to GitHub Pages
+[![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
+<a href="https://jekyll-themes.com/docsy-jekyll/">
+    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
-You can use the [editor on GitHub](https://github.com/scpaworks/scpaworks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png](https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
+on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
+native deployment on GitHub pages. The original [Apache License](https://github.com/vsoch/docsy-jekyll/blob/master/LICENSE) is included.
 
-### Markdown
+## Changes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The site is intended for purely documentation, so while the front page banner
+is useful for business or similar, this author (@vsoch) preferred to have
+the main site page go directly to the Documentation view. Posts
+are still provided via a feed.
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+### 1. Get the code
 
-- Bulleted
-- List
+You can clone the repository right to where you want to host the docs:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+git clone https://github.com/vsoch/docsy-jekyll.git docs
+cd docs
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2. Customize
 
-### Jekyll Themes
+To edit configuration values, customize the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml).
+To add pages, write them into the [pages](https://github.com/vsoch/docsy-jekyll/blob/master/pages) folder. 
+You define urls based on the `permalink` attribute in your pages,
+and then add them to the navigation by adding to the content of [_data/toc.myl](https://github.com/vsoch/docsy-jekyll/blob/master/_data/toc.yml).
+The top navigation is controlled by [_data/navigation.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_data/navigation.yml)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scpaworks/scpaworks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 3. Options
 
-### Support or Contact
+Most of the configuration values in the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml) are self explanatory,
+and for more details, see the [getting started page](https://vsoch.github.io/docsy-jekyll/docs/getting-started)
+rendered on the site.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 4. Serve
+
+Depending on how you installed jekyll:
+
+```bash
+jekyll serve
+# or
+bundle exec jekyll serve
+```
+
+### 5. Run as a container in dev or prod
+
+#### Software Dependencies
+
+If you want to run docsy jekyll via a container for development (dev) or production (prod) you can use containers. This approach requires installing [docker-ce](https://docs.docker.com/engine/install/ubuntu/) and [docker-compose](https://docs.docker.com/compose/install/). 
+
+#### Customization
+
+Note that the [docker-compose.yml](docker-compose.yml) file is using the [jekyll/jekyll:3.8](https://hub.docker.com/r/jekyll/jekyll/tags) image. If you want to make your build more reproducible, you can specify a particular version for jekyll (tag). Note that at the development time of writing this documentation, the latest was tag 4.0.0,
+and it [had a bug](https://github.com/fastai/fastpages/issues/267#issuecomment-620612896) that prevented the server from deploying.
+
+If you are deploying a container to production, you should remove the line to
+mount the bundles directory to the host in the docker-compose.yml. Change:
+
+```yaml
+    volumes: 
+      - "./:/srv/jekyll"
+      - "./vendor/bundle:/usr/local/bundle"
+      # remove "./vendor/bundle:/usr/local/bundle" volume when deploying in production
+```
+
+to:
+
+```yaml
+    volumes: 
+      - "./:/srv/jekyll"
+```
+
+This additional volume is optimal for development so you can cache the bundle dependencies,
+but should be removed for production. 
+
+#### Start Container
+
+Once your docker-compose to download the base container and bring up the server:
+
+```bash
+docker-compose up -d
+```
+
+You can then open your browser to [http://localhost:4000](http://localhost:4000)
+to see the server running.
+
+> Node : changes `baseurl: ""` in _config.yml  when you are running in local and prod according to the requirement.
