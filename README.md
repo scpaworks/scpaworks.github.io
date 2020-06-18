@@ -1,10 +1,8 @@
-# SCPa Works Tutorial Hub
-
-[![Build Status](https://travis-ci.org/scpaworks/scpaworks.github.io.svg?branch=master)](https://travis-ci.org/scpaworks/scpaworks.github.io)
-
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/scpaworks/scpaworks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+🚀 🐼
+
+You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scpaworks/scpaworks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

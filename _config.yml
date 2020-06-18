@@ -1,14 +1,4 @@
-#algolia:
- # application_id: HEEF5DA1XO
- # index_name: index
-
-#Configure theme
-#theme: just-the-docs
-title: "SCPa Works Tutorial Hub"
+title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-search_enabled: true
-
-# We specify the directory for Jekyll so we can use @imports.
-#sass:
-#  sass_dir: _sass
+search_enabled: false
