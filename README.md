@@ -1,3 +1,8 @@
+#SCPa Works Tutorial Pages
+[![Build Status](https://travis-ci.org/scpaworks/scpaworks.github.io.svg?branch=master)](https://travis-ci.org/scpaworks/scpaworks.github.io)
+
+# Original README Below
+
 # Docsy Jekyll Theme
 
 [![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
