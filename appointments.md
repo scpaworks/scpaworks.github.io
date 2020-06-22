@@ -21,7 +21,7 @@ nav_order: 2
 
 <p class="test">Below is the interface for managing appointments in Apptoto.</p>
 
-<img src="/assets/apptoto/appointmentsInterface.png" />
+<img src="assets/apptoto/appointmentsInterface.png" />
 
 <hr class="divider">
 
@@ -31,7 +31,7 @@ nav_order: 2
 <ol>
      <li>Click the Add Appt. button</li>
      <li>In the Appointment Editor, enter the information for your appointment.</li>
-     <img src="/assets/apptoto/appointmentEditor.png" />
+     <img src="assets/apptoto/appointmentEditor.png" />
      <li>Click Save to save the appointment details. You will be prompted to
           enter participants.</li>
      <li>Enter any participants you want to add to the event.</li>
@@ -41,7 +41,7 @@ nav_order: 2
                <li>Select the Sign Up Page that correspond's to your event's location.</li>
           </ol>
      <li>Review the event information, and hit close to finish editing.</li>
-     <img src="/assets/apptoto/appointmentEditor2.png" />
+     <img src="assets/apptoto/appointmentEditor2.png" />
 </ol>
 
 <hr class="divider">
