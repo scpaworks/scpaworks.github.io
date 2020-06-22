@@ -1,4 +1,10 @@
 title: "SCPa Works Tutorial Hub"
 remote_theme: pmarsceill/just-the-docs
 #color_scheme: "dark"
-search_enabled: false
+search_enabled: true
+
+logo: "/assets/logo.png"
+
+aux_links:
+     "SCPa Works Website":
+          - "https://scpaworks.org/"
