@@ -1,5 +1,9 @@
 .side-bar {
      width: 264px
+
+     @include mq(lg) {
+          width: 264px;
+          min-width: $nav-width;
 }
 
 @media {
