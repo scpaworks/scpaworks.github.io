@@ -27,15 +27,17 @@ Below is the interface for managing appointments in Apptoto.
 
 1. Click the Add Appt. button.
 1. In the Appointment Editor, enter the information for your appointment.
+
 <img src="assets/apptoto/appointmentEditor.png" />
+
 1. Click Save to save the appointment details. You will be prompted to enter participants.
 1. Enter any participants you want to add to the event.
 1. If you'd like to add the event to a Sign Up Page:
-          1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
-          1. Select the Sign Up Page that correspond's to your event's location.
+     1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
+     1. Select the Sign Up Page that correspond's to your event's location.
 1. Review the event information, and hit close to finish editing.
-<img src="assets/apptoto/appointmentEditor2.png" />
 
+<img src="assets/apptoto/appointmentEditor2.png" />
 
 <hr class="divider">
 
