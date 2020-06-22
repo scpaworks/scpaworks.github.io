@@ -65,3 +65,36 @@ Below is the interface for managing appointments in Apptoto.
 1. You can quickly view the current or next day's date by clicking the **Go to today &#124; tomorrow** button below the calendar controls.
 
 <a class="image" href="assets/apptoto/calendarControls.png"><img src="assets/apptoto/calendarControls.png" /></a>
+
+<!-- IMPORT APPOINTMENTS -->
+## Import Appointments from File
+
+You can bulk import appointments from a CSV or XML file. CSV (comma-separated values) files can be created from Excel spreadsheets.
+
+### Suggested Layout
+
+| Appointment type | Full Name | Date | Time | Phone | Email |
+|------------------|-----------|------|------|-------|-------|
+| Customer Service Bootcamp | John Smith | 6/12/2020 | 9:00AM | 123-555-6789 | jsmith@email.com |
+| Resume Writing Workshop | Adam Green | 6/12/2020 | 11:00AM | 717-555-1234 | agreen@email.com |
+| Social Media Workshop | Ashley Stauffer | 6/12/2020 | 2:00PM | 333-555-7777 | ashstauffer@email.com |
+
+### Uploading Procedure
+1. Click on the Import button at the top-right of the page.
+1. You can drag and drop the CSV file into the file dropbox, or select **Choose File** to select the file from Windows Explorer.
+     1. Alternatively, you can copy and paste the contents of your CSV file into the text box below the upload.
+1. If you uploaded a file, click **Upload File** to submit your file for processing. If you pasted the contents of your CSV file, click **Upload Contents** instead.
+
+<a class="image" href="assets/apptoto/csvUpload.jpg"><img src="assets/apptoto/csvUpload.jpg" /></a>
+
+1. Once Apptoto has accepted your file, you will be prompted to map CSV columns to Apptoto fields. For each column in your CSV, use the dropdown box to select the matching Apptoto field.
+     1. i.e. for the Full Name column in your CSV, you would select Full Name in the dropdown.
+
+<a class="image" href="assets/apptoto/importCSV.jpg"><img src="assets/apptoto/importCSV.jpg" /></a>
+
+1. The final step in the uploading process is to set **repeatable sync** options.
+     1. It is recommended that you use the following options:
+          1. **Avoid duplicating appointments: ON**
+          1. **Update existing appointments if found: ON**
+          1. **Delete appointments if they were removed: OFF**
+1. You will need to provide default values for required fields. These are values that are stored in these fields when they are left blank.
