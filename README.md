@@ -1,3 +1,4 @@
+<img src="assets/logo.png" />
 ## SCPa Works Tutorial Hub
 
 This site acts as a repository for all guides for SCPa Works software.
