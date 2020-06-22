@@ -18,7 +18,7 @@ nav_order: 2
 
 Below is the interface for managing appointments in Apptoto.
 
-<img src="assets/apptoto/appointmentsInterface.png" />
+<a href="assets/apptoto/appointmentsInterface.png"><img src="assets/apptoto/appointmentsInterface.png" /></a>
 
 <hr class="divider">
 
