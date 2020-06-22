@@ -14,6 +14,7 @@ nav_order: 2
 1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
 1. <a href="#showhide-calendars">Show/Hide Calendars</a>
 1. <a href="#change-the-date">Change the Date</a>
+1. <a href="#import-appointments-from-file">Import Appointments from File</a>
 
 <!-- USER INTERFACE -->
 ## User Interface
