@@ -12,6 +12,8 @@ nav_order: 2
 1. <a href="#user-interface">User Interface</a>
 1. <a href="#how-to-create-an-appointment">Create Appointment</a>
 1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
+1. <a href="#show/hide-calendars">Show/Hide Calendars</a>
+1. <a href="#change-the-date">Change the Date</a>
 
 <!-- USER INTERFACE -->
 ## User Interface
@@ -34,7 +36,7 @@ Below is the interface for managing appointments in Apptoto.
 1. Enter any participants you want to add to the event.
 1. If you'd like to add the event to a Sign Up Page:
      1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
-     1. Select the Sign Up Page that correspond's to your event's location.
+     1. Select the Sign Up Page that corresponds to your event's location.
 1. Review the event information, and hit close to finish editing.
 
 <a href="assets/apptoto/appointmentEditor2.png"><img src="assets/apptoto/appointmentEditor2.png" /></a>
@@ -46,3 +48,20 @@ Below is the interface for managing appointments in Apptoto.
 
 1. Click on the name of the appointment.
 1. Edit the contents of the appointment in the Appointment Editor.
+
+<!-- SHOW/HIDE CALENDARS -->
+## Show/Hide Calendars
+
+1. Click the name of the calendar corresponding to the location you'd like to select.
+1. All other calendars will be hidden from your view.
+1. To disable filtering, click the **all** link next to the Calendars label.
+
+<a href="assets/apptoto/changeCalendarView.png"><img src="assets/apptoto/changeCalendarView.png" /></a>
+
+<!-- CHANGE THE DATE -->
+## Change the Date
+
+1. Using the calendar navigation controls on the left side of the Appointments page, select the date you'd like to view.
+1. You can quickly view the current or next day's date by clicking the **Go to today | tomorrow** button below the calendar controls.
+
+<a href="assets/apptoto/calendarControls.png"><img src="assets/apptoto/calendarControls.png" /></a>
