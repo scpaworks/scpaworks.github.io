@@ -1,11 +1,16 @@
 title: "SCPa Works Tutorial Hub"
+
 #remote_theme: pmarsceill/just-the-docs
 remote_theme: helemaster/just-the-docs
 #color_scheme: "dark"
-search_enabled: true
 
-logo: "/assets/logo.png"
+search_enabled: true
+heading_anchors: true
+
+logo: "/assets/global/logo.png"
 
 aux_links:
      "SCPa Works Website":
           - "https://scpaworks.org/"
+
+footer_content: "Copyright &copy; 2020 SCPa Works. All images and trademarks belong to their respective owners. Deployed under an <a href="https://github.com/helemaster/just-the-docs/blob/master/LICENSE.txt">MIT license.</a>"
