@@ -62,6 +62,6 @@ Below is the interface for managing appointments in Apptoto.
 ## Change the Date
 
 1. Using the calendar navigation controls on the left side of the Appointments page, select the date you'd like to view.
-1. You can quickly view the current or next day's date by clicking the **Go to today | tomorrow** button below the calendar controls.
+1. You can quickly view the current or next day's date by clicking the **Go to today &#124; tomorrow** button below the calendar controls.
 
 <a class="image" href="assets/apptoto/calendarControls.png"><img src="assets/apptoto/calendarControls.png" /></a>
