@@ -20,3 +20,8 @@
     border-right: 1px solid #eeebee;
     align-items: flex-end;
 }
+
+@media (min-width: 75.875rem)
+.main-content {
+    margin-left: 264px;
+}
