@@ -6,9 +6,6 @@ nav_order: 1
 
 # Apptoto Tutorials
 
-<a href="./appointments.html">Appointments</a> <br />
-Reminders <br />
-Inbox/Outbox <br />
-Tools <br />
+<a href="/index.html">Back</a>
 
-<a href="/index.html">Back to Index</a>
+Apptoto is an appointment scheduling and SMS reminder system.
