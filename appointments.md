@@ -5,16 +5,13 @@ has_children: false
 nav_order: 2
 ---
 
-<div class="content">
 <h1>Apptoto Appointments</h1>
 <a href="./apptoto.html">Back</a>
 
 <h2>Table of Contents</h2>
-<ul>
-     <li><a href="#userInterface">User Interface</a></li>
-     <li><a href="#createAppointment">Create Appointment</a></li>
-     <li><a href="#editAppointment">Edit Appointment</a></li>
-</ul>
+1. <a href="#userInterface">User Interface</a>
+1. <a href="#createAppointment">Create Appointment</a>
+1. <a href="#editAppointment">Edit Appointment</a>
 
 <!-- USER INTERFACE -->
 <a id="userInterface"><h2>User Interface</h2></a>
@@ -28,28 +25,22 @@ nav_order: 2
 <!-- MAKE AN APPOINTMENT -->
 <a id="createAppointment"><h2>How to Create an Appointment</h2></a>
 
-<ol>
-     <li>Click the Add Appt. button</li>
-     <li>In the Appointment Editor, enter the information for your appointment.</li>
-     <img src="assets/apptoto/appointmentEditor.png" />
-     <li>Click Save to save the appointment details. You will be prompted to
-          enter participants.</li>
-     <li>Enter any participants you want to add to the event.</li>
-     <li>If you'd like to add the event to a Sign Up Page:</li>
-          <ol>
-               <li>In the Appointment Editor's right-hand sidebar, click <b>Add to Existing Signup Page</b>.
-               <li>Select the Sign Up Page that correspond's to your event's location.</li>
-          </ol>
-     <li>Review the event information, and hit close to finish editing.</li>
-     <img src="assets/apptoto/appointmentEditor2.png" />
-</ol>
+1. Click the Add Appt. button.
+1. In the Appointment Editor, enter the information for your appointment.
+<img src="assets/apptoto/appointmentEditor.png" />
+1. Click Save to save the appointment details. You will be prompted to enter participants.
+1. Enter any participants you want to add to the event.
+1. If you'd like to add the event to a Sign Up Page:
+          1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
+          1. Select the Sign Up Page that correspond's to your event's location.
+1. Review the event information, and hit close to finish editing.
+<img src="assets/apptoto/appointmentEditor2.png" />
+
 
 <hr class="divider">
 
 <!-- EDIT AN APPOINTMENT -->
 <a id="editAppointment"><h2>How to Edit an Appointment</h2></a>
-<ol>
-     <li>Click on the name of the appointment.</li>
-     <li>Edit the contents of the appointment in the Appointment Editor.</li>
-</ol>
-</div>
+
+1. Click on the name of the appointment.
+1. Edit the contents of the appointment in the Appointment Editor.
