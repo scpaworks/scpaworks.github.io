@@ -5,25 +5,25 @@ has_children: false
 nav_order: 2
 ---
 
-<h1>Apptoto Appointments</h1>
+# Apptoto Appointments
 <a href="./apptoto.html">Back</a>
 
-<h2>Table of Contents</h2>
-1. <a href="#userInterface">User Interface</a>
-1. <a href="#createAppointment">Create Appointment</a>
-1. <a href="#editAppointment">Edit Appointment</a>
+## Table of Contents
+1. <a href="#user-interface">User Interface</a>
+1. <a href="#how-to-create-an-appointment">Create Appointment</a>
+1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
 
 <!-- USER INTERFACE -->
-<a id="userInterface"><h2>User Interface</h2></a>
+## User Interface
 
-<p class="test">Below is the interface for managing appointments in Apptoto.</p>
+Below is the interface for managing appointments in Apptoto.
 
 <img src="assets/apptoto/appointmentsInterface.png" />
 
 <hr class="divider">
 
 <!-- MAKE AN APPOINTMENT -->
-<a id="createAppointment"><h2>How to Create an Appointment</h2></a>
+## How to Create an Appointment
 
 1. Click the Add Appt. button.
 1. In the Appointment Editor, enter the information for your appointment.
@@ -40,7 +40,7 @@ nav_order: 2
 <hr class="divider">
 
 <!-- EDIT AN APPOINTMENT -->
-<a id="editAppointment"><h2>How to Edit an Appointment</h2></a>
+## How to Edit an Appointment
 
 1. Click on the name of the appointment.
 1. Edit the contents of the appointment in the Appointment Editor.
