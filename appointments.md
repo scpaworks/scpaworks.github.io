@@ -50,6 +50,8 @@ Below is the interface for managing appointments in Apptoto.
 1. Click on the name of the appointment.
 1. Edit the contents of the appointment in the Appointment Editor.
 
+<hr class="divider">
+
 <!-- SHOW/HIDE CALENDARS -->
 ## Show/Hide Calendars
 
@@ -59,6 +61,8 @@ Below is the interface for managing appointments in Apptoto.
 
 <a class="image" href="assets/apptoto/changeCalendarView.png"><img src="assets/apptoto/changeCalendarView.png" /></a>
 
+<hr class="divider">
+
 <!-- CHANGE THE DATE -->
 ## Change the Date
 
@@ -66,6 +70,8 @@ Below is the interface for managing appointments in Apptoto.
 1. You can quickly view the current or next day's date by clicking the **Go to today &#124; tomorrow** button below the calendar controls.
 
 <a class="image" href="assets/apptoto/calendarControls.png"><img src="assets/apptoto/calendarControls.png" /></a>
+
+<hr class="divider">
 
 <!-- IMPORT APPOINTMENTS -->
 ## Import Appointments from File
