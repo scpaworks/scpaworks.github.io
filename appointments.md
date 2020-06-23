@@ -105,10 +105,10 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
      1. Take a look at the table under the **Step 1. Map columns to fields** heading. The bottom row shows the field names of each column.
 
      <a class="image" href="assets/apptoto/tableFieldNames.png"><img src="assets/apptoto/tableFieldNames.png" /></a>
-     
+
      1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. See below for a suggested format.
 
-`{{ title }} - {{ name }} - {{ date }} - {{ time }}`
+<code>{{ title }} - {{ name }} - {{ date }} - {{ time }}</code>
 
 1. Click **Import** to begin importing your appointment data!
 1. You will see the following screen if the import has completed successfully. If the upload does not succeed, you will see an error message. Read the message to determine the issue, fix it, and then restart the upload process to try again. Alternatively, if only some rows have issues, you can choose to skip uploading just those rows.
