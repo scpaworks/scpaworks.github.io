@@ -103,7 +103,9 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 1. Under the **Step 3. Provide Default Values (or template) for required fields**, make sure you have the correct calendar selected. The selected calendar should correspond with the location of the appointments.
 1. (Optional) You may be prompted to create unique appointment identifiers for your import. This happens when the CSV contains insufficient information for Apptoto to index it automatically.
      1. Take a look at the table under the **Step 1. Map columns to fields** heading. The bottom row shows the field names of each column.
+
      <a class="image" href="assets/apptoto/tableFieldNames.png"><img src="assets/apptoto/tableFieldNames.png" /></a>
+     
      1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. See below for a suggested format.
 
 `{{ title }} - {{ name }} - {{ date }} - {{ time }}`
