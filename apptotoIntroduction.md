@@ -1,26 +1,24 @@
 ---
-title: Introduction
+title: User Interface Introduction
 parent: Apptoto
 has_children: false
 nav_order: 2
 ---
 
-# Apptoto Introduction
+# Apptoto User Interface Introduction
 <a href="./apptoto.html">Back</a>
 
-## Table of Contents
-1. <a href="#user-interface">User Interface</a>
-1. <a href="#how-to-create-an-appointment">Create Appointment</a>
-1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
-1. <a href="#showhide-calendars">Show/Hide Calendars</a>
-1. <a href="#change-the-date">Change the Date</a>
-1. <a href="#import-appointments-from-file">Import Appointments from File</a>
+<!-- MAIN NAVIGATION -->
+## User Interface Introduction
 
-<!-- USER INTERFACE -->
-## User Interface
+There are two menus that can be seen across the entire Apptoto software.
 
-Below is the interface for managing appointments in Apptoto.
+The first is the main navigation menu, located in the left sidebar.
 
-<a class="image" href="assets/apptoto/appointmentsInterface.png"><img src="assets/apptoto/appointmentsInterface.png" /></a>
+<a class="image" href="assets/apptoto/mainNavigation.png"><img src="assets/apptoto/mainNavigation.png" /></a>
+
+The second contains account-related controls, and is located on the top-right toolbar.
+
+<a class="image" href="assets/apptoto/mainMenu.png"><img src="assets/apptoto/mainMenu.png" /></a>
 
 <hr class="divider">
