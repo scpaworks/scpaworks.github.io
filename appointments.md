@@ -106,7 +106,7 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 
      <a class="image" href="assets/apptoto/tableFieldNames.png"><img src="assets/apptoto/tableFieldNames.png" /></a>
 
-     1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. See below for a suggested format.
+     1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. Here is a suggested format:
 
           {% raw %}
           {{ title }} - {{ name }} - {{ date }} - {{ time }}
