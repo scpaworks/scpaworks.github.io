@@ -7,7 +7,7 @@ permalink: docs/apptoto
 
 # Apptoto Tutorials
 
-<img class="apptotologo" src="/assets/apptoto/logo.png"/>
+<img src="/assets/apptoto/logo.png" style="width:200px;"/>
 
 Apptoto is an appointment scheduling and SMS reminder system.
 
