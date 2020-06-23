@@ -9,39 +9,42 @@ nav_order: 3
 
 ## Table of Contents
 1. <a href="#user-interface">User Interface</a>
-1. <a href="#how-to-create-an-appointment">Create Appointment</a>
-1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
+1. <a href="#send-a-one-time-message-with-compose">Send a One-Time Message with Compose</a>
 
 <!-- USER INTERFACE -->
 ## User Interface
 
-Below is the interface for managing appointments in Apptoto.
+Below is the interface for viewing incoming and outgoing SMS messages, emails, and phone calls.
 
-<img src="/assets/apptoto/appointmentsInterface.png" />
-
-<hr class="divider">
-
-<!-- MAKE AN APPOINTMENT -->
-## How to Create an Appointment
-
-1. Click the Add Appt. button.
-1. In the Appointment Editor, enter the information for your appointment.
-
-<img src="/assets/apptoto/appointmentEditor.png" />
-
-1. Click Save to save the appointment details. You will be prompted to enter participants.
-1. Enter any participants you want to add to the event.
-1. If you'd like to add the event to a Sign Up Page:
-     1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
-     1. Select the Sign Up Page that correspond's to your event's location.
-1. Review the event information, and hit close to finish editing.
-
-<img src="/assets/apptoto/appointmentEditor2.png" />
+<a class="image" href="/assets/apptoto/inboxoutbox.png"><img src="/assets/apptoto/inboxoutbox.png" /></a>
 
 <hr class="divider">
 
-<!-- EDIT AN APPOINTMENT -->
-## How to Edit an Appointment
+<!-- Send a One-Time Message -->
+## Send a One-Time Message with Compose
 
-1. Click on the name of the appointment.
-1. Edit the contents of the appointment in the Appointment Editor.
+1. Click the Compose button.
+1. Begin entering participant information. If the participant is in your contacts, you can select them from the list. Otherwise, you can manually enter contacts.
+
+<a class="image" href="/assets/apptoto/compose1.png"><img src="/assets/apptoto/compose1.png" /></a>
+
+1. Once you have selected all recipient information, choose whether you'd like to send an SMS, email, or voice call.
+1. Enter the chosen contents and subject for your message in the provided boxes. If you need to access fields, like the date or the recipient's name, use the Insert Field button.
+
+<a class="image" href="/assets/apptoto/compose2.png"><img src="/assets/apptoto/compose2.png" /></a>
+
+1. Click **Preview** to see what your message will look like.
+
+<a class="image" href="/assets/apptoto/compose3.png"><img src="/assets/apptoto/compose3.png" /></a>
+
+1. When finished, click **Send** to begin transmission, or **Save as Template** to save the message contents for later.
+
+1. Test
+2. Test
+3. Test
+4. Test
+5. Test
+     6. 11212
+     something else here
+     7. 1212
+     8. 1212
