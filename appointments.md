@@ -74,11 +74,13 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 
 ### Suggested Layout
 
-| Appointment type | Full Name | Date | Time | Phone | Email |
-|------------------|-----------|------|------|-------|-------|
-| Customer Service Bootcamp | John Smith | 6/12/2020 | 9:00AM | 123-555-6789 | jsmith@email.com |
-| Resume Writing Workshop | Adam Green | 6/12/2020 | 11:00AM | 717-555-1234 | agreen@email.com |
-| Social Media Workshop | Ashley Stauffer | 6/12/2020 | 2:00PM | 333-555-7777 | ashstauffer@email.com |
+| Appointment type | Full Name | Date | Start Time | End Time | Phone | Email |
+|------------------|-----------|------|------------|----------|-------|-------|
+| Customer Service Bootcamp | John Smith | 6/12/2020 | 9:00AM | 10:00AM | 123-555-6789 | jsmith@email.com |
+| Resume Writing Workshop | Adam Green | 6/12/2020 | 11:00AM | 12:00PM | 717-555-1234 | agreen@email.com |
+| Social Media Workshop | Ashley Stauffer | 6/12/2020 | 2:00PM | 3:00PM | 333-555-7777 | ashstauffer@email.com |
+
+<a href="assets/apptoto/sampleCSV.csv">**Download the sample CSV file.**</a>
 
 ### Uploading Procedure
 1. Click on the Import button at the top-right of the page.
@@ -93,9 +95,21 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 
 <a class="image" href="assets/apptoto/importCSV.jpg"><img src="assets/apptoto/importCSV.jpg" /></a>
 
-1. The final step in the uploading process is to set **repeatable sync** options.
-     1. It is recommended that you use the following options:
-          1. **Avoid duplicating appointments: ON**
-          1. **Update existing appointments if found: ON**
-          1. **Delete appointments if they were removed: OFF**
-1. You will need to provide default values for required fields. These are values that are stored in these fields when they are left blank.
+1. (Optional) You may be prompted to set "repeatable sync options." If these appear, it is recommended that you use the following options:
+     1. **Avoid duplicating appointments: ON**
+     1. **Update existing appointments if found: ON**
+     1. **Delete appointments if they were removed: OFF**
+
+1. Under the **Step 3. Provide Default Values (or template) for required fields**, make sure you have the correct calendar selected. The selected calendar should correspond with the location of the appointments.
+1. (Optional) You may be prompted to create unique appointment identifiers for your import. This happens when the CSV contains insufficient information for Apptoto to index it automatically.
+     1. Take a look at the table under the **Step 1. Map columns to fields** heading. The bottom row shows the field names of each column.
+     <a class="image" href="assets/apptoto/tableFieldNames.png"><img src="assets/apptoto/tableFieldNames.png" /></a>
+     1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. See below for a suggested format.
+
+`{{ title }} - {{ name }} - {{ date }} - {{ time }}`
+
+1. Click **Import** to begin importing your appointment data!
+1. You will see the following screen if the import has completed successfully. If the upload does not succeed, you will see an error message. Read the message to determine the issue, fix it, and then restart the upload process to try again. Alternatively, if only some rows have issues, you can choose to skip uploading just those rows.
+1. Should you need to, you have the option to undo a successful import by clicking **Undo Import**.
+
+<a class="image" href="assets/apptoto/importComplete.png"><img src="assets/apptoto/importComplete.png" /></a>

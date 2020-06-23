@@ -1,7 +1,17 @@
+/* Overrides - overwrites styles in the just-the-docs remote theme */
+
+/* Divider style */
 hr.divider {
   border-top: 3px solid #bbb;
 }
 
+/* Images styling */
+img {
+     max-width: 100%;
+     height: auto;
+}
+
+/* Page layout size adjustments */
 .side-bar {
   z-index: 100;
   display: flex;
