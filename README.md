@@ -16,4 +16,4 @@ You can reach the homepage at any time by clicking the SCPa Works logo in the to
 
 ## Support or Contact
 
-Contact placeholder@email.com for support.
+If you encounter any problems, please contact <a href="mailto:hlemaster@scpaworks.org?subject=SCPa Works Tutorial Hub"> Holly LeMaster</a> for support.
