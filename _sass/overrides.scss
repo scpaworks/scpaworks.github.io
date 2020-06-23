@@ -50,7 +50,7 @@ img {
 .main-content {
   @include mq(md) {
     position: relative;
-    max-width: $content-width;
+    max-width: 1500;
     margin-left: $nav-width-md;
   }
 

@@ -1,4 +1,4 @@
-<img src="assets/global/logo.png" />
+<img src="/assets/global/logo.png" />
 
 # SCPa Works Tutorial Hub
 
