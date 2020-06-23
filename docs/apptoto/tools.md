@@ -6,7 +6,6 @@ nav_order: 5
 ---
 
 # Apptoto Tools
-<a href="./apptoto.html">Back</a>
 
 ## Table of Contents
 1. <a href="#user-interface">User Interface</a>
@@ -18,7 +17,7 @@ nav_order: 5
 
 Below is the interface for managing appointments in Apptoto.
 
-<img src="assets/apptoto/appointmentsInterface.png" />
+<img src="/assets/apptoto/appointmentsInterface.png" />
 
 <hr class="divider">
 
@@ -28,7 +27,7 @@ Below is the interface for managing appointments in Apptoto.
 1. Click the Add Appt. button.
 1. In the Appointment Editor, enter the information for your appointment.
 
-<img src="assets/apptoto/appointmentEditor.png" />
+<img src="/assets/apptoto/appointmentEditor.png" />
 
 1. Click Save to save the appointment details. You will be prompted to enter participants.
 1. Enter any participants you want to add to the event.
@@ -37,7 +36,7 @@ Below is the interface for managing appointments in Apptoto.
      1. Select the Sign Up Page that correspond's to your event's location.
 1. Review the event information, and hit close to finish editing.
 
-<img src="assets/apptoto/appointmentEditor2.png" />
+<img src="/assets/apptoto/appointmentEditor2.png" />
 
 <hr class="divider">
 

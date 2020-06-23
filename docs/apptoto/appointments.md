@@ -6,7 +6,6 @@ nav_order: 2
 ---
 
 # Apptoto Appointments
-<a href="./apptoto.html">Back</a>
 
 ## Table of Contents
 1. <a href="#user-interface">User Interface</a>
@@ -21,7 +20,7 @@ nav_order: 2
 
 Below is the interface for managing appointments in Apptoto.
 
-<a class="image" href="assets/apptoto/appointmentsInterface.png"><img src="assets/apptoto/appointmentsInterface.png" /></a>
+<a class="image" href="/assets/apptoto/appointmentsInterface.png"><img src="/assets/apptoto/appointmentsInterface.png" /></a>
 
 <hr class="divider">
 
@@ -31,7 +30,7 @@ Below is the interface for managing appointments in Apptoto.
 1. Click the Add Appt. button.
 1. In the Appointment Editor, enter the information for your appointment.
 
-<a class="image" href="assets/apptoto/appointmentEditor.png"><img src="assets/apptoto/appointmentEditor.png" /></a>
+<a class="image" href="/assets/apptoto/appointmentEditor.png"><img src="/assets/apptoto/appointmentEditor.png" /></a>
 
 1. Click Save to save the appointment details. You will be prompted to enter participants.
 1. Enter any participants you want to add to the event.
@@ -40,7 +39,7 @@ Below is the interface for managing appointments in Apptoto.
      1. Select the Sign Up Page that corresponds to your event's location.
 1. Review the event information, and hit close to finish editing.
 
-<a class="image" href="assets/apptoto/appointmentEditor2.png"><img src="assets/apptoto/appointmentEditor2.png" /></a>
+<a class="image" href="/assets/apptoto/appointmentEditor2.png"><img src="/assets/apptoto/appointmentEditor2.png" /></a>
 
 <hr class="divider">
 
@@ -59,7 +58,7 @@ Below is the interface for managing appointments in Apptoto.
 1. All other calendars will be hidden from your view.
 1. To disable filtering, click the **all** link next to the Calendars label.
 
-<a class="image" href="assets/apptoto/changeCalendarView.png"><img src="assets/apptoto/changeCalendarView.png" /></a>
+<a class="image" href="/assets/apptoto/changeCalendarView.png"><img src="/assets/apptoto/changeCalendarView.png" /></a>
 
 <hr class="divider">
 
@@ -69,7 +68,7 @@ Below is the interface for managing appointments in Apptoto.
 1. Using the calendar navigation controls on the left side of the Appointments page, select the date you'd like to view.
 1. You can quickly view the current or next day's date by clicking the **Go to today &#124; tomorrow** button below the calendar controls.
 
-<a class="image" href="assets/apptoto/calendarControls.png"><img src="assets/apptoto/calendarControls.png" /></a>
+<a class="image" href="/assets/apptoto/calendarControls.png"><img src="/assets/apptoto/calendarControls.png" /></a>
 
 <hr class="divider">
 
@@ -86,7 +85,7 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 | Resume Writing Workshop | Adam Green | 6/12/2020 | 11:00AM | 12:00PM | 717-555-1234 | agreen@email.com |
 | Social Media Workshop | Ashley Stauffer | 6/12/2020 | 2:00PM | 3:00PM | 333-555-7777 | ashstauffer@email.com |
 
-<a href="assets/apptoto/sampleCSV.csv">**Download the sample CSV file.**</a>
+<a href="/assets/apptoto/sampleCSV.csv">**Download the sample CSV file.**</a>
 
 ### Uploading Procedure
 1. Click on the Import button at the top-right of the page.
@@ -94,12 +93,12 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
      1. Alternatively, you can copy and paste the contents of your CSV file into the text box below the upload.
 1. If you uploaded a file, click **Upload File** to submit your file for processing. If you pasted the contents of your CSV file, click **Upload Contents** instead.
 
-<a class="image" href="assets/apptoto/csvUpload.jpg"><img src="assets/apptoto/csvUpload.jpg" /></a>
+<a class="image" href="/assets/apptoto/csvUpload.jpg"><img src="/assets/apptoto/csvUpload.jpg" /></a>
 
 1. Once Apptoto has accepted your file, you will be prompted to map CSV columns to Apptoto fields. For each column in your CSV, use the dropdown box to select the matching Apptoto field.
      1. i.e. for the Full Name column in your CSV, you would select Full Name in the dropdown.
 
-<a class="image" href="assets/apptoto/importCSV.jpg"><img src="assets/apptoto/importCSV.jpg" /></a>
+<a class="image" href="/assets/apptoto/importCSV.jpg"><img src="/assets/apptoto/importCSV.jpg" /></a>
 
 1. (Optional) You may be prompted to set "repeatable sync options." If these appear, it is recommended that you use the following options:
      1. **Avoid duplicating appointments: ON**
@@ -110,7 +109,7 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 1. (Optional) You may be prompted to create unique appointment identifiers for your import. This happens when the CSV contains insufficient information for Apptoto to index it automatically.
      1. Take a look at the table under the **Step 1. Map columns to fields** heading. The bottom row shows the field names of each column.
 
-     <a class="image" href="assets/apptoto/tableFieldNames.png"><img src="assets/apptoto/tableFieldNames.png" /></a>
+     <a class="image" href="/assets/apptoto/tableFieldNames.png"><img src="/assets/apptoto/tableFieldNames.png" /></a>
 
      1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. Here is a suggested format:
 
@@ -122,4 +121,4 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 1. You will see the following screen if the import has completed successfully. If the upload does not succeed, you will see an error message. Read the message to determine the issue, fix it, and then restart the upload process to try again. Alternatively, if only some rows have issues, you can choose to skip uploading just those rows.
 1. Should you need to, you have the option to undo a successful import by clicking **Undo Import**.
 
-<a class="image" href="assets/apptoto/importComplete.png"><img src="assets/apptoto/importComplete.png" /></a>
+<a class="image" href="/assets/apptoto/importComplete.png"><img src="/assets/apptoto/importComplete.png" /></a>
