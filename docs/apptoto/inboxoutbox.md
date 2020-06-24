@@ -23,26 +23,21 @@ Below is the interface for viewing incoming and outgoing SMS messages, emails, a
 <!-- Send a One-Time Message -->
 ## Send a One-Time Message with Compose
 
-<ol>
-<li>Click the Compose button.</li>
-<li>Begin entering participant information. If the participant is in your contacts, you can select them from the list. Otherwise, you can manually enter contacts.</li>
-</ol>
+1. Click the Compose button.
+2. Begin entering participant information. If the participant is in your contacts, you can select them from the list. Otherwise, you can manually enter contacts.
 
-<a class="image" href="/assets/apptoto/compose1.png"><img src="/assets/apptoto/compose1.png" /></a>
+ <a class="image" href="/assets/apptoto/compose1.png"><img src="/assets/apptoto/compose1.png" /></a>
 
-<ol start="3">
-<li>Once you have selected all recipient information, choose whether you'd like to send an SMS, email, or voice call.</li>
-<li>Enter the chosen contents and subject for your message in the provided boxes. If you need to access fields, like the date or the recipient's name, use the Insert Field button.</li>
-</ol>
+{:start="3"}
+3. Once you have selected all recipient information, choose whether you'd like to send an SMS, email, or voice call.
+4. Enter the chosen contents and subject for your message in the provided boxes. If you need to access fields, like the date or the recipient's name, use the Insert Field button.
 
-<a class="image" href="/assets/apptoto/compose2.png"><img src="/assets/apptoto/compose2.png" /></a>
+ <a class="image" href="/assets/apptoto/compose2.png"><img src="/assets/apptoto/compose2.png" /></a>
 
-<ol start="5">
-<li>Click **Preview** to see what your message will look like.</li>
-</ol>
+{:start="5"}
+5. Click **Preview** to see what your message will look like.
 
-<a class="image" href="/assets/apptoto/compose3.png"><img src="/assets/apptoto/compose3.png" /></a>
+ <a class="image" href="/assets/apptoto/compose3.png"><img src="/assets/apptoto/compose3.png" /></a>
 
-<ol start="6">
-<li>When finished, click **Send** to begin transmission, or **Save as Template** to save the message contents for later.</li>
-</ol>
+{:start="6"}
+6. When finished, click **Send** to begin transmission, or **Save as Template** to save the message contents for later.
