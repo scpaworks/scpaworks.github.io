@@ -28,7 +28,7 @@ Below is the interface for viewing incoming and outgoing SMS messages, emails, a
 
 <a class="image" href="/assets/apptoto/compose1.png"><img src="/assets/apptoto/compose1.png" /></a>
 
-{:start="3"}
+{:start="3"} <br />
 3. Once you have selected all recipient information, choose whether you'd like to send an SMS, email, or voice call.
 4. Enter the chosen contents and subject for your message in the provided boxes. If you need to access fields, like the date or the recipient's name, use the Insert Field button.
 
