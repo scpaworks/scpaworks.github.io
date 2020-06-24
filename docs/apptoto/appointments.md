@@ -48,6 +48,7 @@ Below is the interface for managing appointments in Apptoto.
 
 1. Click on the name of the appointment.
 1. Edit the contents of the appointment in the Appointment Editor.
+1. Click **Close** when finished. The contents are saved automatically.
 
 <hr class="divider">
 
@@ -94,30 +95,30 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 <tbody>
   <tr>
     <td class="tg-0lax">Customer Service Bootcamp</td>
-    <td class="tg-0lax">John Smith</td>
+    <td class="tg-0lax">Luke Skywalker</td>
     <td class="tg-0lax">6/12/2020</td>
     <td class="tg-0lax">9:00AM</td>
     <td class="tg-0lax">10:00AM</td>
     <td class="tg-0lax">123-555-6789</td>
-    <td class="tg-0lax">jsmith@email.com</td>
+    <td class="tg-0lax">lskywalker@email.com</td>
   </tr>
   <tr>
     <td class="tg-0lax">Resume Writing Workshop</td>
-    <td class="tg-0lax">Adam Green</td>
+    <td class="tg-0lax">Leia Organa</td>
     <td class="tg-0lax">6/12/2020</td>
     <td class="tg-0lax">11:00AM</td>
     <td class="tg-0lax">12:00PM</td>
     <td class="tg-0lax">717-555-1234</td>
-    <td class="tg-0lax">agreen@email.com</td>
+    <td class="tg-0lax">lorgana@email.com</td>
   </tr>
   <tr>
     <td class="tg-0lax">Social Media Workshop</td>
-    <td class="tg-0lax">Ashley Stauffer</td>
+    <td class="tg-0lax">Han Solo</td>
     <td class="tg-0lax">6/12/2020</td>
     <td class="tg-0lax">2:00PM</td>
     <td class="tg-0lax">3:00PM</td>
     <td class="tg-0lax">333-555-7777</td>
-    <td class="tg-0lax">ashstauffer@email.com</td>
+    <td class="tg-0lax">hsolo@email.com</td>
   </tr>
 </tbody>
 </table>
