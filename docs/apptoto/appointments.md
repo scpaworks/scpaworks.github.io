@@ -50,7 +50,7 @@ Below is the interface for managing appointments in Apptoto.
 
 1. Click on the name of the appointment.
 1. Edit the contents of the appointment in the Appointment Editor.
-1. Click **Close** when finished. The contents are saved automatically.
+1. Click **Save** to save your changes, and **Close** to close out the edit dialog.
 
 <hr class="divider">
 
