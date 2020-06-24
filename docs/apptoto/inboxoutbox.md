@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Table of Contents
 1. <a href="#user-interface">User Interface</a>
-1. <a href="#send-a-one-time-message-with-compose">Send a One-Time Message with Compose</a>
+2. <a href="#send-a-one-time-message-with-compose">Send a One-Time Message with Compose</a>
 
 <!-- USER INTERFACE -->
 ## User Interface
@@ -24,27 +24,17 @@ Below is the interface for viewing incoming and outgoing SMS messages, emails, a
 ## Send a One-Time Message with Compose
 
 1. Click the Compose button.
-1. Begin entering participant information. If the participant is in your contacts, you can select them from the list. Otherwise, you can manually enter contacts.
+2. Begin entering participant information. If the participant is in your contacts, you can select them from the list. Otherwise, you can manually enter contacts.
 
 <a class="image" href="/assets/apptoto/compose1.png"><img src="/assets/apptoto/compose1.png" /></a>
 
-1. Once you have selected all recipient information, choose whether you'd like to send an SMS, email, or voice call.
-1. Enter the chosen contents and subject for your message in the provided boxes. If you need to access fields, like the date or the recipient's name, use the Insert Field button.
+3. Once you have selected all recipient information, choose whether you'd like to send an SMS, email, or voice call.
+4. Enter the chosen contents and subject for your message in the provided boxes. If you need to access fields, like the date or the recipient's name, use the Insert Field button.
 
 <a class="image" href="/assets/apptoto/compose2.png"><img src="/assets/apptoto/compose2.png" /></a>
 
-1. Click **Preview** to see what your message will look like.
+5. Click **Preview** to see what your message will look like.
 
 <a class="image" href="/assets/apptoto/compose3.png"><img src="/assets/apptoto/compose3.png" /></a>
 
-1. When finished, click **Send** to begin transmission, or **Save as Template** to save the message contents for later.
-
-1. Test
-2. Test
-3. Test
-4. Test
-5. Test
-     6. 11212
-     something else here
-     7. 1212
-     8. 1212
+6. When finished, click **Send** to begin transmission, or **Save as Template** to save the message contents for later.
