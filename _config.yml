@@ -3,6 +3,8 @@ title: "SCPa Works Tutorial Hub"
 remote_theme: helemaster/just-the-docs
 #color_scheme: "dark"
 
+markdown: CommonMarkGhPages
+
 search_enabled: true
 heading_anchors: true
 
