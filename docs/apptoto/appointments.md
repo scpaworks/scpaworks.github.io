@@ -30,7 +30,7 @@ Below is the interface for managing appointments in Apptoto.
 1. Click the Add Appt. button.
 1. In the Appointment Editor, enter the information for your appointment.
 
-<a class="image" href="/assets/apptoto/appointmentEditor.png"><img src="/assets/apptoto/appointmentEditor.png" /></a>
+     <a class="image" href="/assets/apptoto/appointmentEditor.png"><img src="/assets/apptoto/appointmentEditor.png" /></a>
 
 1. Click Save to save the appointment details. You will be prompted to enter participants.
 1. Enter any participants you want to add to the event.
@@ -93,12 +93,12 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
      1. Alternatively, you can copy and paste the contents of your CSV file into the text box below the upload.
 1. If you uploaded a file, click **Upload File** to submit your file for processing. If you pasted the contents of your CSV file, click **Upload Contents** instead.
 
-<a class="image" href="/assets/apptoto/csvUpload.jpg"><img src="/assets/apptoto/csvUpload.jpg" /></a>
+     <a class="image" href="/assets/apptoto/csvUpload.jpg"><img src="/assets/apptoto/csvUpload.jpg" /></a>
 
 1. Once Apptoto has accepted your file, you will be prompted to map CSV columns to Apptoto fields. For each column in your CSV, use the dropdown box to select the matching Apptoto field.
      1. i.e. for the Full Name column in your CSV, you would select Full Name in the dropdown.
 
-<a class="image" href="/assets/apptoto/importCSV.jpg"><img src="/assets/apptoto/importCSV.jpg" /></a>
+     <a class="image" href="/assets/apptoto/importCSV.jpg"><img src="/assets/apptoto/importCSV.jpg" /></a>
 
 1. (Optional) You may be prompted to set "repeatable sync options." If these appear, it is recommended that you use the following options:
      1. **Avoid duplicating appointments: ON**
@@ -109,7 +109,7 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 1. (Optional) You may be prompted to create unique appointment identifiers for your import. This happens when the CSV contains insufficient information for Apptoto to index it automatically.
      1. Take a look at the table under the **Step 1. Map columns to fields** heading. The bottom row shows the field names of each column.
 
-     <a class="image" href="/assets/apptoto/tableFieldNames.png"><img src="/assets/apptoto/tableFieldNames.png" /></a>
+          <a class="image" href="/assets/apptoto/tableFieldNames.png"><img src="/assets/apptoto/tableFieldNames.png" /></a>
 
      1. You must enter a combination of these fields in the Unique Appt Id field under Step 3 of the importing process. Here is a suggested format:
 
