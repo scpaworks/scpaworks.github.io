@@ -79,12 +79,48 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 
 ### Suggested Layout
 
-
-| Appointment type | Full Name | Date | Start Time | End Time | Phone | Email |
-|------------------|-----------|------|------------|----------|-------|-------|
-| Customer Service Bootcamp | John Smith | 6/12/2020 | 9:00AM | 10:00AM | 123-555-6789 | jsmith@email.com |
-| Resume Writing Workshop | Adam Green | 6/12/2020 | 11:00AM | 12:00PM | 717-555-1234 | agreen@email.com |
-| Social Media Workshop | Ashley Stauffer | 6/12/2020 | 2:00PM | 3:00PM | 333-555-7777 | ashstauffer@email.com |
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Appointment type</th>
+    <th class="tg-0lax">Full name</th>
+    <th class="tg-0lax">Date</th>
+    <th class="tg-0lax">Start Time</th>
+    <th class="tg-0lax">End Time</th>
+    <th class="tg-0lax">Phone</th>
+    <th class="tg-0lax">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Customer Service Bootcamp</td>
+    <td class="tg-0lax">John Smith</td>
+    <td class="tg-0lax">6/12/2020</td>
+    <td class="tg-0lax">9:00AM</td>
+    <td class="tg-0lax">10:00AM</td>
+    <td class="tg-0lax">123-555-6789</td>
+    <td class="tg-0lax">jsmith@email.com</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Resume Writing Workshop</td>
+    <td class="tg-0lax">Adam Green</td>
+    <td class="tg-0lax">6/12/2020</td>
+    <td class="tg-0lax">11:00AM</td>
+    <td class="tg-0lax">12:00PM</td>
+    <td class="tg-0lax">717-555-1234</td>
+    <td class="tg-0lax">agreen@email.com</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Social Media Workshop</td>
+    <td class="tg-0lax">Ashley Stauffer</td>
+    <td class="tg-0lax">6/12/2020</td>
+    <td class="tg-0lax">2:00PM</td>
+    <td class="tg-0lax">3:00PM</td>
+    <td class="tg-0lax">333-555-7777</td>
+    <td class="tg-0lax">ashstauffer@email.com</td>
+  </tr>
+</tbody>
+</table>
 
 <a href="/assets/apptoto/sampleCSV.csv">**Download the sample CSV file.**</a>
 
