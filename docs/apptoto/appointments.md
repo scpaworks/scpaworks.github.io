@@ -79,6 +79,7 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 
 ### Suggested Layout
 
+
 | Appointment type | Full Name | Date | Start Time | End Time | Phone | Email |
 |------------------|-----------|------|------------|----------|-------|-------|
 | Customer Service Bootcamp | John Smith | 6/12/2020 | 9:00AM | 10:00AM | 123-555-6789 | jsmith@email.com |
