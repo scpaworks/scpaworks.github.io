@@ -45,7 +45,7 @@ Let's go over each section in the image above.
 
 1. **Switch between rule and settings view** - allows switching between *Rules and Messages* view and the *Advanced Settings* view. In *Advanced Settings,* you can adjust options pertaining to message delivery.
 2. **Save or discard edits** - the *Save* button saves edits to Auto Messages, while *Revert* discards any changes.
-3. **Create new Auto Message* - using either button, you can create a new Auto Message of any type. This opens the Auto Message Editor.
+3. **Create new Auto Message** - using either button, you can create a new Auto Message of any type. This opens the Auto Message Editor.
 4. **Create and view rules** - created rules appear here. For each rule, the logical statement used to filter events can be seen directly below the rule's title. New rules can also be added by clicking *New Rule.*
 5. **Initial Auto Messages** - Auto Message reminders sent after a client has booked or been assigned to an appointment.
 6. **Reminder Auto Messages** - Auto Message reminders sent before an appointment occurs.
@@ -70,7 +70,7 @@ You can insert Fields in your message body using the **Insert Field** button. To
 
 <a class="image" href="/assets/apptoto/messageEditor3.png"><img src="/assets/apptoto/messageEditor3.png" /></a>
 
-Fields always appear in your message body surrounded by curly braces. For example: `{% raw %} {{ user.email }} {% endraw %}` represents the attendee's email address.
+Fields always appear in your message body surrounded by curly braces. For example: `{% raw %} {{ participant.email }} {% endraw %}` represents the attendee's email address.
 
 <a class="image" href="/assets/apptoto/messageEditor5.png"><img src="/assets/apptoto/messageEditor5.png" /></a>
 
@@ -81,6 +81,9 @@ Fields always appear in your message body surrounded by curly braces. For exampl
 SMS reminders are text messages that are sent to appointment attendee's phone numbers. Attendees can respond to these messages to preform actions (confirm/reschedule/cancel appointments, for example) or communicate with relevant staff.
 
 1. Click one of the **New Message** buttons and click **Add SMS**
+
+     <a class="image" href="/assets/apptoto/messageEditor1.png"><img src="/assets/apptoto/messageEditor1.png" /></a>
+
 2. Fill out the information about your reminder
      1. Name - enter a descriptive name for the reminder
      2. Purpose - select whether this reminder should be Initial/Booking, Reminder, or Followup
@@ -101,6 +104,9 @@ SMS reminders are text messages that are sent to appointment attendee's phone nu
 Email reminders are email messages sent to participants' email addresses.
 
 1. Click one of the **New Message** buttons and select **Add Email**
+
+     <a class="image" href="/assets/apptoto/messageEditor7.png"><img src="/assets/apptoto/messageEditor7.png" /></a>
+
 2. Fill out the information about your email reminder:
      1. Name - enter a descriptive name for the reminder
      2. Purpose - select whether this reminder should be Initial/Booking, Reminder, or Followup
@@ -120,6 +126,9 @@ Email reminders are email messages sent to participants' email addresses.
 Voice call reminders are audio messages sent to clients' phones. This can either take the form of a pre-recorded MP3/WAV file, or a **Text-to-Speech (TTS)** voice.
 
 1. Click one of the **New Message** buttons and choose **Add Call**
+
+     <a class="image" href="/assets/apptoto/messageEditor6.png"><img src="/assets/apptoto/messageEditor6.png" /></a>
+
 2. Fill out the information about your call reminder:
      1. Name - enter a descriptive name for the reminder
      2. Purpose - select whether this reminder should be Initial/Booking, Reminder, or Followup
@@ -136,7 +145,7 @@ Voice call reminders are audio messages sent to clients' phones. This can either
      3. You will know your upload completed successfully when you see two things:
           1. You see the **Upload completed** notification in the top-right of Apptoto
 
-               <a class="image" href="/assets/apptoto/audioUpload.png"<img src="/assets/apptoto/audioUpload.png" /></a>
+               <a class="image" href="/assets/apptoto/audioUpload.png"><img src="/assets/apptoto/audioUpload.png" /></a>
 
           1. The body of the reminder has changed to include the URL to your uploaded file
 
