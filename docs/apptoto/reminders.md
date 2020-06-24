@@ -10,6 +10,7 @@ nav_order: 4
 ## Table of Contents
 1. <a href="#what-are-reminders">What are Reminders?</a>
 2. <a href="#user-interface">User Interface</a>
+3. <a href="#how-to-make-new-reminders">How to Make New Reminders</a>
 
 <!-- WHAT ARE REMINDERS? -->
 ## What are Reminders?
