@@ -28,14 +28,23 @@ This guide will show you how to backup your data on Windows 10 and Windows 7. Th
 
 3. Begin backing up your data.
      1. Go to the folder you want to backup and select all the files. Either press Ctrl + A or click the checkbox at the top of the file list to select everything.
+
           <a href="/assets/computerskills/backup4.png"><img src="/assets/computerskills/backup4.png" /></a>
+
      2. Drag the files to the new location. Ensure the tooltip says Copy to [location]. Instead of dragging, you can also press Ctrl+C to copy the selected files and paste them using Ctrl+V into the new location.
+
           <a href="/assets/computerskills/backup5.png"><img src="/assets/computerskills/backup5.png" /></a>
+
      3. The transfer should begin. Do not interrupt this process.
+
           <a href="/assets/computerskills/backup6.png"><img src="/assets/computerskills/backup6.png" /></a>
+
      4. Once the transfer is finished, ensure all your files are there. Check any folders to see that subdirectories copied over correctly.
+
           <a href="/assets/computerskills/backup7.png"><img src="/assets/computerskills/backup7.png" /></a>
+
      5. Repeat this process for all libraries until all your data is backed up. Don’t forget to safely eject your USB or hard drive if you are using a USB device!
+
           <a href="/assets/computerskills/backup8.png"><img src="/assets/computerskills/backup8.png" /></a>
 
 ## Windows 7
