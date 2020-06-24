@@ -22,6 +22,8 @@ Below is the interface for managing appointments in Apptoto.
 
 <a class="image" href="/assets/apptoto/appointmentsInterface.png"><img src="/assets/apptoto/appointmentsInterface.png" /></a>
 
+<a class="image" href="/assets/apptoto/moreControls.png"><img src="/assets/apptoto/moreControls.png" /></a>
+
 <hr class="divider">
 
 <!-- MAKE AN APPOINTMENT -->
