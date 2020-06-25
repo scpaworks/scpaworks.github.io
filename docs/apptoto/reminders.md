@@ -177,7 +177,7 @@ Voice call reminders are audio messages sent to clients' phones. This can either
 
 Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what-are-conditional-statements">conditional statements</a>. Conditional statements are basic "if, then..." logic statements that are often used to determine how something will proceed. In Apptoto, these rules can be used to perform actions when certain conditions are met.
 
-1. Click the New Rule button at the bottom of the rule list.
+1. Click the **New Rule** button at the bottom of the rule list.
 
      <a class="image" href="/assets/apptoto/newRule.png"><img src="/assets/apptoto/newRule.png" /></a>
 
@@ -186,7 +186,7 @@ Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what
      1. Select the data field you want to filter by (i.e. event.name, participant.email, etc.).
      2. Choose a <a href="https://www.dummies.com/programming/coding-for-kids/teaching-kids-code-compound-conditionals-aka-not/">logical operator</a>.
      3. Enter the desired data value(s) in the last field.
-4. Add additional conditions to your statement using the **Add** (gray with plus sign) button.
+4. Add additional conditions to your statement using the **Add** (gray with plus sign) button, if desired.
 
      <a class="image" href="/assets/apptoto/ruleEditor.png"><img src="/assets/apptoto/ruleEditor.png" /></a>
 
@@ -223,6 +223,59 @@ Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what
 2. Drop the reminder over the dotted box that appears around the rule.
 3. You should be able to see the number of reminders associated with a rule based on the blue number to the right of the rule name.
 
-<a class="image" href="/assets/apptoto/autoMessageDrag.gif"><img src="/assets/apptoto/autoMessageDrag.gif" /></a>
+     <a class="image" href="/assets/apptoto/autoMessageDrag.gif"><img src="/assets/apptoto/autoMessageDrag.gif" /></a>
 
 4. Don't forget to hit **Save** to save your changes!
+
+<!-- ADVANCED SETTINGS -->
+## Advanced Settings
+
+The **Advanced** tab allows you to access advanced settings. Here you can adjust prompts, how messages are delivered, auto responses, and more.
+
+Let's go over each section of the settings in detail.
+
+### For Reminders Settings
+
+<a class="image" href="/assets/apptoto/advanced1.png"><img src="/assets/apptoto/advanced1.png" /></a>
+
+The setting pictured above allows adjustment of the **reminder prompt.** This is the prompt that appears after a reminder asking the participant to confirm, cancel, or reschedule their appointment. You can adjust this prompt for your needs by selecting a prompt option from the drop-down menu.
+
+<a class="image" href="/assets/apptoto/advanced2.png"><img src="/assets/apptoto/advanced2.png" /></a>
+
+**Allow clients to cancel or request reschedule up to `   ` hours before appointment** - enter a grace period before the appointment that a client is allowed to reschedule or cancel their appointment. If the grace period is over, the client will not see the reschedule or cancel options in their prompt.
+
+**Allow clients to change response** - if checked, this allows clients to change their response to the prompt. If they intially answer reschedule, for instance, they can later change their answer to cancel.
+
+**Stop sending messages if appointment cancels** - if checked, reminder messages will not be sent if the appointment is canceled.
+
+**Stop sending messages if appointment confirms** - if checked, additional reminder messages will not be sent once the client confirms their appointment.
+
+<a class="image" href="/assets/apptoto/advanced3.png"><img src="/assets/apptoto/advanced3.png" /></a>
+
+The above setting allows adjustment of the time period before Booking/Initial reminders are sent. If 1 hour is selected, the Booking/Initial reminder will not be sent until 1 hour after the client books their appointment.
+
+### For Booking/Initial Messages
+
+<a class="image" href="/assets/apptoto/advanced4.png"><img src="/assets/apptoto/advanced4.png" /></a>
+
+The above setting pertains to the prompt that will be displayed for Booking/Initial reminders. You can adjust whether the client has options to accept/deny an appointment.
+
+<a class="image" href="/assets/apptoto/advanced5.png"><img src="/assets/apptoto/advanced5.png" /></a>
+
+**Only send booking messages to appointments booked more than `   ` days in advance** - The number here determines how many days in advance a client has to book their appointment in order to receive a Booking/Initial reminder.
+
+**Do not send booking messages if reminders already sent** - if checked, Booking/Initial messages will not be sent to the client if they have already received reminders for the appointment.
+
+### Default Auto Replies
+
+<a class="image" href="/assets/apptoto/advanced6.png"><img src="/assets/apptoto/advanced6.png" /></a>
+
+In this section, you can set different auto responses. These are messages sent to the client when they respond to reminders. For example, if the client responds "cancel" to their reminder prompt, Apptoto can automatically send a response to that message.
+
+#### How to Edit Default Auto Replies
+1. Click the **Add Auto Reply/Action** button in the desired reminder category.
+2. Choose a client action to respond to.
+3. Choose an action for Apptoto to take when the client responds.
+4. Edit the contents of your response.
+
+<a class="image" href="/assets/apptoto/autoResponses.gif"><img src="/assets/apptoto/autoResponses.gif" /></a>
