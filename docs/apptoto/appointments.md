@@ -80,7 +80,7 @@ Below is the interface for managing appointments in Apptoto.
 
 You can bulk import appointments from a CSV or XML file. CSV (comma-separated values) files can be created from Excel spreadsheets.
 
-### Suggested Layout
+### Suggested CSV Layout
 
 <table class="tg">
 <thead>
