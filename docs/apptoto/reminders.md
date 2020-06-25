@@ -15,6 +15,7 @@ nav_order: 4
 5. <a href="#how-to-create-rules">How to Create Rules</a>
 6. <a href="#how-to-edit-rules">How to Edit Rules</a>
 7. <a href="#how-to-associate-reminders-with-rules">How to Associate Reminders with Rules</a>
+8. <a href="#advanced-settings">Advanced Settings</a>
 
 <!-- WHAT ARE REMINDERS? -->
 ## What are Reminders?
@@ -226,6 +227,8 @@ Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what
      <a class="image" href="/assets/apptoto/autoMessageDrag.gif"><img src="/assets/apptoto/autoMessageDrag.gif" /></a>
 
 4. Don't forget to hit **Save** to save your changes!
+
+<hr class="divider" />
 
 <!-- ADVANCED SETTINGS -->
 ## Advanced Settings
