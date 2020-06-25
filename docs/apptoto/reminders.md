@@ -11,6 +11,8 @@ nav_order: 4
 1. <a href="#what-are-reminders">What are Reminders?</a>
 2. <a href="#user-interface">User Interface</a>
 3. <a href="#how-to-make-new-reminders">How to Make New Reminders</a>
+4. <a href="#how-to-edit-reminders">How to Edit Reminders</a>
+5. <a href="#how-to-create-rules">How to Create Rules</a>
 
 <!-- WHAT ARE REMINDERS? -->
 ## What are Reminders?
@@ -18,7 +20,7 @@ nav_order: 4
 Apptoto provides reminder functionality through **Auto Messages.** These are SMS (text) messages, emails, or voice calls that Apptoto automatically sends to participants of an event at predetermined times. Any number of Auto Messages can be sent out, but note that each Auto Message consumes one (1) account message credit.
 
 There are three types of Auto Messages in Apptoto:
-* **Initial/Booking** - sent at some time after the participant books an appointment
+* **Booking/Initial** - sent at some time after the participant books an appointment
 * **Reminder** - sent at some time before the appointment occurs
 * **Followup** - sent at some time after the appointment is completed
 
@@ -59,12 +61,12 @@ Let's go over each section in the image above.
 
 The message editor is where all Auto Messages are configured. Auto Messages require the following data:
 * **Name** - a descriptive name for the reminder
-* **Purpose** - whether the reminder is Initial/Booking, Reminder, or Followup
+* **Purpose** - whether the reminder is Booking/Initial, Reminder, or Followup
 * **When** - time interval when reminder should be sent
      * **Time of Day** - this determines when Auto Messages are allowed to be sent. This should always be set to **Any** or a **Custom Schedule** that encompasses the entire day. Auto Messages will NOT send outside of hours specified.
 * **Body** - the message contents. This can include text and *Fields.* Fields allow you to populate data from the appointment, such as the time of day or participant name.
 
-<a class="image" href="/assets/apptoto/messageEditor1.png"><img src="/assets/apptoto/messageEditor2.png" /></a>
+<a class="image" href="/assets/apptoto/messageEditor1.png"><img src="/assets/apptoto/messageEditor1.png" /></a>
 
 You can insert Fields in your message body using the **Insert Field** button. To add a field, simply select the category you'd like, and click the desired field value to insert it into your message.
 
@@ -74,79 +76,123 @@ Fields always appear in your message body surrounded by curly braces. For exampl
 
 <a class="image" href="/assets/apptoto/messageEditor5.png"><img src="/assets/apptoto/messageEditor5.png" /></a>
 
+<hr class="divider" />
+
+<!-- HOW TO MAKE REMINDERS -->
 ## How to Make New Reminders
 
 ### SMS Reminder
 
 SMS reminders are text messages that are sent to appointment attendee's phone numbers. Attendees can respond to these messages to preform actions (confirm/reschedule/cancel appointments, for example) or communicate with relevant staff.
 
-1. Click one of the **New Message** buttons and click **Add SMS**
+1. Click one of the **New Message** buttons and click **Add SMS**.
 
      <a class="image" href="/assets/apptoto/messageEditor1.png"><img src="/assets/apptoto/messageEditor1.png" /></a>
 
-2. Fill out the information about your reminder
-     1. Name - enter a descriptive name for the reminder
-     2. Purpose - select whether this reminder should be Initial/Booking, Reminder, or Followup
-     3. When - enter the time before or after the appointment that this reminder should send
-          1. **IMPORTANT** - make sure the **Time of day** is set to either *Any* or a *Custom Schedule* encompassing the entire day
+2. Fill out the information about your reminder:
+     1. Name - enter a descriptive name for the reminder.
+     2. Purpose - select whether this reminder should be Booking/Initial, Reminder, or Followup.
+     3. When - enter the time before or after the appointment that this reminder should send.
+          1. **IMPORTANT** - make sure the **Time of day** is set to either *Any* or a *Custom Schedule* encompassing the entire day.
 
           <a class="image" href="/assets/apptoto/messageEditor4.png"><img src="/assets/apptoto/messageEditor4.png" /></a>
 
      4. Body - enter the contents of the message. Fields can be added with the **Insert Field** button.
-3. You can click Preview to see what your message will look like to the client
+3. You can click Preview to see what your message will look like to the client.
 
      <a class="image" href="/assets/apptoto/messageEditor2.png"><img src="/assets/apptoto/messageEditor2.png" /></a>
 
-4. Click Done to save your Auto Message
+4. Click Done to save your Auto Message.
 
 ### Email Reminder
 
 Email reminders are email messages sent to participants' email addresses.
 
-1. Click one of the **New Message** buttons and select **Add Email**
+1. Click one of the **New Message** buttons and select **Add Email**.
 
      <a class="image" href="/assets/apptoto/messageEditor7.png"><img src="/assets/apptoto/messageEditor7.png" /></a>
 
 2. Fill out the information about your email reminder:
-     1. Name - enter a descriptive name for the reminder
-     2. Purpose - select whether this reminder should be Initial/Booking, Reminder, or Followup
-     3. When - enter the time before or after the appointment that this reminder should send
-          1. **IMPORTANT** - make sure the **Time of day** is set to either *Any* or a *Custom Schedule* encompassing the entire day
+     1. Name - enter a descriptive name for the reminder.
+     2. Purpose - select whether this reminder should be Booking/Initial, Reminder, or Followup.
+     3. When - enter the time before or after the appointment that this reminder should send.
+          1. **IMPORTANT** - make sure the **Time of day** is set to either *Any* or a *Custom Schedule* encompassing the entire day.
 
           <a class="image" href="/assets/apptoto/messageEditor4.png"><img src="/assets/apptoto/messageEditor4.png" /></a>
 
-     4. Subject - enter the subject line of the email message
-     5. Body - enter the contents of your email message. You can use the WYSIWYG editor to format text inside your message. Fields can also be inserted using the **Insert Field** button
-3. Click Preview to view how your message will appear to the recipient
-4. Click Done to save your Auto Message
+     4. Subject - enter the subject line of the email message.
+     5. Body - enter the contents of your email message. You can use the WYSIWYG editor to format text inside your message. Fields can also be inserted using the **Insert Field** button.
+3. Click Preview to view how your message will appear to the recipient.
+4. Click Done to save your Auto Message.
 
 
 ### Voice Call Reminder
 
 Voice call reminders are audio messages sent to clients' phones. This can either take the form of a pre-recorded MP3/WAV file, or a **Text-to-Speech (TTS)** voice.
 
-1. Click one of the **New Message** buttons and choose **Add Call**
+1. Click one of the **New Message** buttons and choose **Add Call**.
 
      <a class="image" href="/assets/apptoto/messageEditor6.png"><img src="/assets/apptoto/messageEditor6.png" /></a>
 
 2. Fill out the information about your call reminder:
-     1. Name - enter a descriptive name for the reminder
-     2. Purpose - select whether this reminder should be Initial/Booking, Reminder, or Followup
-     3. When - enter the time before or after the appointment that this reminder should send
-          1. **IMPORTANT** - make sure the **Time of day** is set to either *Any* or a *Custom Schedule* encompassing the entire day
+     1. Name - enter a descriptive name for the reminder.
+     2. Purpose - select whether this reminder should be Booking/Initial, Reminder, or Followup.
+     3. When - enter the time before or after the appointment that this reminder should send.
+          1. **IMPORTANT** - make sure the **Time of day** is set to either *Any* or a *Custom Schedule* encompassing the entire day.
 
           <a class="image" href="/assets/apptoto/messageEditor4.png"><img src="/assets/apptoto/messageEditor4.png" /></a>
 
-     4. Body - **If using TTS**, enter the message for your client in the body. This message will be translated into speech and sent to the client
-     5. TTS Voice - select whether to use the female or male TTS voice
+     4. Body - **If using TTS**, enter the message for your client in the body. This message will be translated into speech and sent to the client.
+     5. TTS Voice - select whether to use the female or male TTS voice.
 6. **If you are using a recorded MP3 or WAV message:**
-     1. click the **Upload MP3/WAV** button
-     2. Select your MP3 or WAV recording file
+     1. click the **Upload MP3/WAV** button.
+     2. Select your MP3 or WAV recording file.
      3. You will know your upload completed successfully when you see two things:
-          1. You see the **Upload completed** notification in the top-right of Apptoto
+          1. You see the **Upload completed** notification in the top-right of Apptoto.
 
                <a class="image" href="/assets/apptoto/audioUpload.png"><img src="/assets/apptoto/audioUpload.png" /></a>
 
-          1. The body of the reminder has changed to include the URL to your uploaded file
+          1. The body of the reminder has changed to include the URL to your uploaded file.
 
                <a class="image" href="/assets/apptoto/audioUpload2.png"><img src="/assets/apptoto/audioUpload2.png" /></a>
+7. Click Done to save your reminder.
+
+<hr class="divider" />
+
+<!-- HOW TO EDIT REMINDERS -->
+## How to Edit Reminders
+1. Click on the name of the reminder you want to edit, or click **Edit** in the options menu for the reminder.
+2. In the Message Editor, make any desired changes.
+3. Press Done to close the Message Editor.
+4. You MUST click the **Save** button on the top-right to save your changes. Otherwise, they will be discarded.
+
+<a class="image" href="/assets/apptoto/remindersSave.png"><img src="/assets/apptoto/remindersSave.png" /></a>
+
+<hr class="divider" />
+
+<!-- HOW TO CREATE RULES -->
+## How to Create Rules
+
+Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what-are-conditional-statements">conditional statements</a>. Conditional statements are basic "if, then..." logic statements that are often used to determine how something will proceed. In Apptoto, these rules can be used to perform actions when certain conditions are met.
+
+1. Click the New Rule button at the bottom of the rule list.
+     <a class="image" href="/assets/apptoto/newRule.png"><img src="/assets/apptoto/newRule.png" /></a>
+2. In the Rule Editor, give your rule a descriptive title.
+3. Using the drop-down menus, begin building your logical statement. You can see the full conditional statement at the bottom of the Rule Editor.
+     1. Select the data field you want to filter by (i.e. event.name, participant.email, etc.).
+     2. Choose a <a href="https://www.dummies.com/programming/coding-for-kids/teaching-kids-code-compound-conditionals-aka-not/">logical operator</a>.
+     3. Enter the desired data value(s) in the last field.
+4. Add additional conditions to your statement using the **Add** (gray with plus sign) button.
+
+     <a class="image" href="/assets/apptoto/ruleEditor.png"><img src="/assets/apptoto/ruleEditor.png" /></a>
+
+5. Click Preview to see if any matching appointments are found with your conditional statement. Ensure **Show Recent** is checked.
+
+     <a class="image" href="/assets/apptoto/ruleEditor2.png"><img src="/assets/apptoto/ruleEditor2.png" /></a>
+
+6. When you are satisfied with your rule, click Done.
+7. Don't forget to click **Save** on the top-right to save all your changes!
+
+<a class="image" href="/assets/apptoto/remindersSave.png"><img src="/assets/apptoto/remindersSave.png" /></a>
+
+<hr class="divider" />
