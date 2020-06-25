@@ -13,6 +13,8 @@ nav_order: 4
 3. <a href="#how-to-make-new-reminders">How to Make New Reminders</a>
 4. <a href="#how-to-edit-reminders">How to Edit Reminders</a>
 5. <a href="#how-to-create-rules">How to Create Rules</a>
+6. <a href="#how-to-edit-rules">How to Edit Rules</a>
+7. <a href="#how-to-associate-reminders-with-rules">How to Associate Reminders with Rules</a>
 
 <!-- WHAT ARE REMINDERS? -->
 ## What are Reminders?
@@ -176,7 +178,9 @@ Voice call reminders are audio messages sent to clients' phones. This can either
 Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what-are-conditional-statements">conditional statements</a>. Conditional statements are basic "if, then..." logic statements that are often used to determine how something will proceed. In Apptoto, these rules can be used to perform actions when certain conditions are met.
 
 1. Click the New Rule button at the bottom of the rule list.
+
      <a class="image" href="/assets/apptoto/newRule.png"><img src="/assets/apptoto/newRule.png" /></a>
+
 2. In the Rule Editor, give your rule a descriptive title.
 3. Using the drop-down menus, begin building your logical statement. You can see the full conditional statement at the bottom of the Rule Editor.
      1. Select the data field you want to filter by (i.e. event.name, participant.email, etc.).
@@ -191,8 +195,34 @@ Rules in Apptoto are <a href="http://support.kodable.com/en/articles/417311-what
      <a class="image" href="/assets/apptoto/ruleEditor2.png"><img src="/assets/apptoto/ruleEditor2.png" /></a>
 
 6. When you are satisfied with your rule, click Done.
-7. Don't forget to click **Save** on the top-right to save all your changes!
+7. Associate reminders with your rule. See the <a href="#how-to-associate-reminders-with-rules">How to Associate Reminders with Rules</a> section below for more detailed instructions.
+8. Don't forget to click **Save** on the top-right to save all your changes!
 
 <a class="image" href="/assets/apptoto/remindersSave.png"><img src="/assets/apptoto/remindersSave.png" /></a>
 
 <hr class="divider" />
+
+<!-- How to Edit Rules -->
+## How to Edit Rules
+
+1. Open the context menu (**...**) next to the rule's name.
+2. Click **Edit**.
+
+     <a class="image" href="/assets/apptoto/editRules.png"><img src="/assets/apptoto/editRules.png" /></a>
+
+3. In the Rule Editor, make your desired changes.
+4. Click Done to close the Rule Editor.
+5. Don't forget to hit **Save** to save your changes!
+
+<hr class="divider" />
+
+<!-- How to Associate Reminders with Rules -->
+## How to Associate Reminders with Rules
+
+1. Click and drag the desired reminder over the rule you want to associate it with.
+2. Drop the reminder over the dotted box that appears around the rule.
+3. You should be able to see the number of reminders associated with a rule based on the blue number to the right of the rule name.
+
+<a class="image" href="/assets/apptoto/autoMessageDrag.gif"><img src="/assets/apptoto/autoMessageDrag.gif" /></a>
+
+4. Don't forget to hit **Save** to save your changes!
