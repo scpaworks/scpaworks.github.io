@@ -16,6 +16,11 @@ $body-heading-line-height: 1.15;
 $white: #fff;
 
 $scpa-green: #BAD531;
+$scpa-green-dark: #a5be27;
+$scpa-blue: #466B7D;
+$scpa-blue-dark1: #385461;
+$scpa-blue-dark2: #253841
+$scpa-blue-dark3: #1c2a31
 
 $grey-dk-000: #959396;
 $grey-dk-100: #5c5962;
@@ -60,11 +65,11 @@ $table-background-color: $white;
 $code-background-color: $grey-lt-000;
 
 $body-text-color: #000000;
-$body-heading-color: $grey-dk-300;
+$body-heading-color: $scpa-blue-dark2;
 $search-result-preview-color: $grey-dk-000;
 $nav-child-link-color: $grey-dk-100;
-$link-color: $scpa-green;
-$btn-primary-color: $purple-100;
+$link-color: $scpa-green-dark;
+$btn-primary-color: $scpa-blue;
 $base-button-color: #f7f7f7;
 
 ////
