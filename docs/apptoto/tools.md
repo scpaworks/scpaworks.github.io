@@ -13,6 +13,8 @@ nav_order: 5
      2. <a href="#how-to-edit-existing-contacts">How to Edit Existing Contacts</a>
      3. <a href="#how-to-bulk-import-new-contacts">How to Bulk Import New Contacts</a>
 1. <a href="#charts-and-reports">Charts and Reports</a>
+     1. <a href="#generating-a-report">Generating a Report</a>
+     2. <a href="#adjusting-daily-report-settings">Adjusting Daily Report Settings</a>
 1. <a href="#consent">Consent</a>
 1. <a href="#log">Log</a>
 
@@ -23,6 +25,7 @@ All contacts in Apptoto can be viewed on the Contacts page under the Tools secti
 
 <a class="image" href="/assets/apptoto/contacts.png"><img src="/assets/apptoto/contacts.png" /></a>
 
+<!-- HOW TO ADD NEW CONTACTS -->
 ### How to Add New Contacts
 
 1. Click the **Add Contact** button on the top-right of the Contacts page.
@@ -34,10 +37,11 @@ All contacts in Apptoto can be viewed on the Contacts page under the Tools secti
      4. **Email Addresses* - click **Add email address* and enter the contact's email address. Enter as many email addresses for the contact as desired.
      5. **ZIP Code** - enter the ZIP code of the client's primary location. This is for time zone determination.
      6. **Notes** - enter any notes about the client.
-     7. **Preferences** - using the drop-down boxes, you can indicate if this contact has already opted-out of SMS, call, or email reminders.
+     7. **Preferences** - using the dropdown boxes, you can indicate if this contact has already opted-out of SMS, call, or email reminders.
      8. **External Id** - a unique identifier you can give the contact. Not necessary except in more advanced use-cases.
 3. Click **Save** to add the new contact to the address book.
 
+<!-- HOW TO EDIT EXISTING CONTACTS -->
 ### How to Edit Existing Contacts
 
 1. Search for the desired contact using the search bar at the top of the Contacts page.
@@ -47,6 +51,7 @@ All contacts in Apptoto can be viewed on the Contacts page under the Tools secti
 
 <a class="image" href="/assets/apptoto/contactEdit.png"><img src="/assets/apptoto/contactEdit.png" /></a>
 
+<!-- HOW TO BULK IMPORT NEW CONTACTS -->
 ### How to Bulk Import New Contacts
 
 You can bulk import appointments from a CSV or XML file. CSV (comma-separated values) files can be created from Excel spreadsheets.
@@ -136,4 +141,82 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 1. Should you need to, you have the option to undo a successful import by clicking **Undo Import**.
 
 <a class="image" href="/assets/apptoto/importCompleteContacts.png"><img src="/assets/apptoto/importCompleteContacts.png" /></a>
+<hr class="divider" />
+
+<!-- CHARTS AND REPORTS -->
+## Charts and Reports
+
+You can get an overview of appointment activity with the charts and reports provided by Apptoto.
+
+### Charts
+
+Charts provide a visual representation of message and appointment activity over a certain time period.
+
+There are two chart tabs: Messages, which displays information about outgoing and incoming messages, and Appointments, which displays information about appointments.
+
+<a class="image" href="/assets/apptoto/charts.png"><img src="/assets/apptoto/charts.png" /></a>
+
+You can use the dropdown menus above the chart to adjust parameters, such as time period, calendar, and message type. You can adjust the type of chart with the **Chart** dropdown. Appointments can be filtered using Rules, if desired.
+
+<a class="image" href="/assets/apptoto/charts2.png"><img src="/assets/apptoto/charts2.png" /></a>
+
+Data points can be toggled on and off under the **Summary** list.
+
+Generated charts can be exported to CSV at any time with the **Export Now (.csv)** button.
+
+<a class="image" href="/assets/apptoto/chartsReports.png"><img src="/assets/apptoto/chartsReports.png" /></a>
+
+### Reports
+
+Two tabs are available on the Reports page. The first, **One-Time Reports**, allows generation of CSV reports with custom parameters. The second, **Daily Reports**, allows adjusting of daily report email settings.
+
+#### Generating a Report
+1. Select the category of report you want to generate (Appointments, Auto Messages, or Booking Requests).
+2. Using the dropdown boxes, select the options for data in your report.
+3. With the **Fields** dropdown box, select the data fields you want included in your report.
+4. Click **Export Now** to begin generating your report.
+5. Under the *Recently Run Reports* section, locate the report you generated.
+6. When the *Status* reads *finished,* click **Download** to save your report to your computer. Note that reports after a certain time period are deleted. You can also quickly view your report with the **View** button.
+     1. You may need to click the **Refresh** button to update the status of your report.
+
+<a class="image" href="/assets/apptoto/reportGenerator.png"><img src="/assets/apptoto/reportGenerator.png" /></a>
+
+#### Adjusting Daily Report Settings
+
+Daily reports are emails that are sent to specific recipients about daily activity in Apptoto.
+
+1. Click the **Daily Reports** tab.
+2. Under each report category (Daily Report, No-Show Report, and Booking Requests Report), select the desired options for report delivery and recipients. If you leave the boxes unchecked, these reports will not be sent out.
+3. Under the **Report Recipients** section, you can adjust options for who you want to send all reports to.
+
+<hr class="divider" />
+
+## Consent
+
+The Consent section allows you to blacklist email addresses and phone numbers from receiving reminders/informational or marketing messages.
+
+Under the Stoplists tab, you can view users who have opted-out of Apptoto messages. This is done when a client responds with "STOP", "END", "QUIT", or "UNSUBSCRIBE" to an Auto Message. You cannot add clients manually to the Stoplist.
+
+#### Adding Someone to a Consent List
+1. Select the consent category you'd like to block
+     1. **Reminders/Informational** - appointment reminders and information messages
+     2. **Marketing** - marketing campaign messages
+2. In the communication method boxes, add the client's contact information. Each entry should be on its own line.
+3. Click **Save** to save the contents of your list.
+
+<a class="image" href="/assets/apptoto/consent.png"><img src="/assets/apptoto/consent.png" /></a>
+
+#### Export the Stoplist
+1. Click the **Stoplists** tab.
+2. Click **Export** under the Stoplist you want to save.
+3. Go to the **Reports** tool tab on the left.
+4. Under **Recently Read Reports,** click refresh. Your report should appear with the type *Email/Phone Stoplist*.
+5. Once the report has finished running, click **Download** to save it.
+
+<a class="image" href="/assets/apptoto/consentStoplists.png"><img src="/assets/apptoto/consentStoplists.png" /></a>
+
+<hr class="divider" />
+
+## Log
+
 <hr class="divider" />

@@ -127,8 +127,8 @@ You can bulk import appointments from a CSV or XML file. CSV (comma-separated va
 
 <a href="/assets/apptoto/sampleCSV.csv">**Download the sample CSV file.**</a>
 
-### Uploading Procedure
-1. Click on the Import button at the top-right of the page.
+#### Uploading Procedure
+1. Click on the **Import** button at the top-right of the page.
 1. You can drag and drop the CSV file into the file dropbox, or select **Choose File** to select the file from Windows Explorer.
      1. Alternatively, you can copy and paste the contents of your CSV file into the text box below the upload.
 1. If you uploaded a file, click **Upload File** to submit your file for processing. If you pasted the contents of your CSV file, click **Upload Contents** instead.
