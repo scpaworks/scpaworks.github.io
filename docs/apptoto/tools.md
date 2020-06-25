@@ -9,9 +9,9 @@ nav_order: 5
 
 ## Table of Contents
 1. <a href="#contacts">Contacts</a>
-     1. How to Add New Contacts
-     2. How to Edit Existing Contacts
-     3. How to Bulk Import New Contacts
+     1. <a href="#how-to-add-new-contacts">How to Add New Contacts</a>
+     2. <a href="#how-to-edit-existing-contacts">How to Edit Existing Contacts</a>
+     3. <a href="#how-to-bulk-import-new-contacts">How to Bulk Import New Contacts</a>
 1. <a href="#charts-and-reports">Charts and Reports</a>
 1. <a href="#consent">Consent</a>
 1. <a href="#log">Log</a>
