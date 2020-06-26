@@ -9,6 +9,11 @@ nav_order: 1
 This guide will show you how to backup your data on Windows 10 and Windows 7. The methods shown demonstrate how to store data on external drives (USB flash drives or external hard drives) or network drives. If you are using a cloud location (Google Drive, OneDrive, Dropbox, etc.) please see the Cloud Storage section.
 
 ## Table of Contents
+1. <a href="#windows-10">Windows 10</a>
+2. <a href="#windows-7">Windows 7</a>
+3. <a href="#cloud-services">Cloud Services</a>
+     4. <a href="#google-drive--gsuite">Google Drive / Gsuite</a>
+     5. <a href="#microsoft-onedrive">Microsft OneDrive</a>
 
 ## Windows 10
 

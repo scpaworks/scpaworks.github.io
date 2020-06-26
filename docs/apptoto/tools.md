@@ -228,3 +228,7 @@ With the log, you can see all SMS messages, emails, or phone calls that have bee
 You can see the exact messages that have been sent by clicking the **Show Messages** button. The relevant event can be viewed with the **Show Event** button.
 
 <a class="image" href="/assets/apptoto/logExpanded.png"><img src="/assets/apptoto/logExpanded.png" /></a>
+
+You can view the exact content of sent messages by highlighting over the message icon. A tooltip will appear with the text of the message.
+
+<a class="image" href="/assets/apptoto/logTooltips.gif"><img src="/assets/apptoto/logTooltips.gif" /></a>
