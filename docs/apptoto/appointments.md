@@ -11,7 +11,7 @@ nav_order: 2
 1. <a href="#user-interface">User Interface</a>
 1. <a href="#how-to-create-an-appointment">Create Appointment</a>
 1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
-1. <a href="#how-to-add-an-appointment-to-a-sign-up-page">How to Add an Appointment to a Signup Page</a>
+1. <a href="#how-to-add-an-appointment-to-a-signup-page">How to Add an Appointment to a Signup Page</a>
 1. <a href="#showhide-calendars">Show/Hide Calendars</a>
 1. <a href="#change-the-date">Change the Date</a>
 1. <a href="#import-appointments-from-file">Import Appointments from File</a>
