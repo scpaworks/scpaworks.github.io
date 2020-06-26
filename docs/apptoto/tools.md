@@ -191,6 +191,7 @@ Daily reports are emails that are sent to specific recipients about daily activi
 
 <hr class="divider" />
 
+<!-- CONSENT -->
 ## Consent
 
 The Consent section allows you to blacklist email addresses and phone numbers from receiving reminders/informational or marketing messages.
@@ -217,6 +218,13 @@ Under the Stoplists tab, you can view users who have opted-out of Apptoto messag
 
 <hr class="divider" />
 
+<!-- LOG -->
 ## Log
 
-<hr class="divider" />
+With the log, you can see all SMS messages, emails, or phone calls that have been sent out by Apptoto. These can be filtered by date or phone number/email address.
+
+<a class="image" href="/assets/apptoto/log.png"><img src="/assets/apptoto/log.png" /></a>
+
+You can see the exact messages that have been sent by clicking the **Show Messages** button. The relevant event can be viewed with the **Show Event** button.
+
+<a class="image" href="/assets/apptoto/logExpanded.png"><img src="/assets/apptoto/logExpanded.png" /></a>
