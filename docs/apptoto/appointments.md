@@ -11,6 +11,7 @@ nav_order: 2
 1. <a href="#user-interface">User Interface</a>
 1. <a href="#how-to-create-an-appointment">Create Appointment</a>
 1. <a href="#how-to-edit-an-appointment">Edit Appointment</a>
+1. <a href="#how-to-add-an-appointment-to-a-sign-up-page">How to Add an Appointment to a Signup Page</a>
 1. <a href="#showhide-calendars">Show/Hide Calendars</a>
 1. <a href="#change-the-date">Change the Date</a>
 1. <a href="#import-appointments-from-file">Import Appointments from File</a>
@@ -24,7 +25,7 @@ Below is the interface for managing appointments in Apptoto.
 
 <a class="image" href="/assets/apptoto/moreControls.png"><img src="/assets/apptoto/moreControls.png" /></a>
 
-<hr class="divider">
+<hr class="divider" />
 
 <!-- MAKE AN APPOINTMENT -->
 ## How to Create an Appointment
@@ -36,14 +37,14 @@ Below is the interface for managing appointments in Apptoto.
 
 1. Click Save to save the appointment details. You will be prompted to enter participants.
 1. Enter any participants you want to add to the event.
-1. If you'd like to add the event to a Sign Up Page:
+1. If you'd like to add the event to a Signup Page:
      1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
-     1. Select the Sign Up Page that corresponds to your event's location.
+     1. Select the Signup Page that corresponds to your event's location.
 1. Review the event information, and hit close to finish editing.
 
 <a class="image" href="/assets/apptoto/appointmentEditor2.png"><img src="/assets/apptoto/appointmentEditor2.png" /></a>
 
-<hr class="divider">
+<hr class="divider" />
 
 <!-- EDIT AN APPOINTMENT -->
 ## How to Edit an Appointment
@@ -52,7 +53,20 @@ Below is the interface for managing appointments in Apptoto.
 1. Edit the contents of the appointment in the Appointment Editor.
 1. Click **Save** to save your changes, and **Close** to close out the edit dialog.
 
-<hr class="divider">
+<hr class="divider" />
+
+<!-- ADD AN EVENT TO A Signup PAGE -->
+## How to Add an Appointment to a Signup Page
+1. Create the appointment, or select an existing appointment for editing. Do not close the Appointment Editor.
+2. Under the Signup Page heading in the left column of the Appointment Editor, click **Add to Existing Signup page**.
+3. In the dropdown menu, select the signup page that corresponds to the event's location. There is a signup page for each CareerLink location in our region.
+4. The appointment will be added to the signup page. Participants can now go to the page's link and sign up for available appointments.
+5. To preview your signup page, click the **Signup Page Link** that appears after you add an event to a signup page.
+6. You must click **Save** to finalize adding the appointment to the signup page.
+
+<a class="image" href="/assets/apptoto/signUpPage.gif"><img src="/assets/apptoto/signUpPage.gif" /></a>
+
+<hr class="divider" />
 
 <!-- SHOW/HIDE CALENDARS -->
 ## Show/Hide Calendars
@@ -63,7 +77,7 @@ Below is the interface for managing appointments in Apptoto.
 
 <a class="image" href="/assets/apptoto/changeCalendarView.png"><img src="/assets/apptoto/changeCalendarView.png" /></a>
 
-<hr class="divider">
+<hr class="divider" />
 
 <!-- CHANGE THE DATE -->
 ## Change the Date
@@ -73,7 +87,7 @@ Below is the interface for managing appointments in Apptoto.
 
 <a class="image" href="/assets/apptoto/calendarControls.png"><img src="/assets/apptoto/calendarControls.png" /></a>
 
-<hr class="divider">
+<hr class="divider" />
 
 <!-- IMPORT APPOINTMENTS -->
 ## Import Appointments from File
