@@ -64,6 +64,10 @@ Below is the interface for managing appointments in Apptoto.
 5. To preview your signup page, click the **Signup Page Link** that appears after you add an event to a signup page.
 6. You must click **Save** to finalize adding the appointment to the signup page.
 
+**IMPORTANT**: Do NOT click the delete icon next to the Signup Page Link if you select the wrong signup page. This will delete the signup page entirely!
+
+<a class="image" href="/assets/apptoto/signupWarning.png"><img src="/assets/apptoto/signupWarning.png" /></a>
+
 <a class="image" href="/assets/apptoto/signUpPage.gif"><img src="/assets/apptoto/signUpPage.gif" /></a>
 
 <hr class="divider" />
