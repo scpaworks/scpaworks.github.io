@@ -12,8 +12,8 @@ This guide will show you how to backup your data on Windows 10 and Windows 7. Th
 1. <a href="#windows-10">Windows 10</a>
 2. <a href="#windows-7">Windows 7</a>
 3. <a href="#cloud-services">Cloud Services</a>
-     4. <a href="#google-drive--gsuite">Google Drive / Gsuite</a>
-     5. <a href="#microsoft-onedrive">Microsft OneDrive</a>
+     1. <a href="#google-drive--gsuite">Google Drive / Gsuite</a>
+     2. <a href="#microsoft-onedrive">Microsft OneDrive</a>
 
 ## Windows 10
 
