@@ -15,3 +15,6 @@ aux_links:
           - "https://scpaworks.org/"
 
 footer_content: "Copyright &copy; 2020 SCPa Works. All images and trademarks belong to their respective owners. Deployed under an <a href='https://github.com/helemaster/just-the-docs/blob/master/LICENSE.txt'>MIT license.</a>"
+
+plugins:
+     - jekyll-seo-tag
