@@ -32,7 +32,7 @@ To quickly search, try opening your browser's Find in Page search by pressing `c
   </tr>
   <tr>
     <td class="tg-0lax">CompletedBy</td>
-    <td class="tg-0lax">Name of the ACCOUNT that completed the form. **This is not the submitting participant's name!**</td>
+    <td class="tg-0lax">Name of the ACCOUNT that completed the form. <b>This is not the submitting participant's name!</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">Started</td>
