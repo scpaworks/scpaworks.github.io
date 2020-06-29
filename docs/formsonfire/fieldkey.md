@@ -77,6 +77,10 @@ To quickly search, try opening your browser's Find in Page search by pressing `c
     <td class="tg-0lax">Name</td>
   </tr>
   <tr>
+    <td class="tg-0lax">dateofBirth</td>
+    <td class="tg-0lax">Date of Birth</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">personalID</td>
     <td class="tg-0lax">Personal Identification Number</td>
   </tr>
@@ -119,6 +123,22 @@ To quickly search, try opening your browser's Find in Page search by pressing `c
   <tr>
     <td class="tg-0lax">demographics</td>
     <td class="tg-0lax">(PAGE) Demographic Information</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">gender</td>
+    <td class="tg-0lax">Gender Identity</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">otherGender</td>
+    <td class="tg-0lax">Other gender identity</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">pronouns</td>
+    <td class="tg-0lax">Preferred Pronouns</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">otherPronouns</td>
+    <td class="tg-0lax">Other pronouns</td>
   </tr>
   <tr>
     <td class="tg-0lax">race</td>
