@@ -13,6 +13,45 @@ See below to see what question each field name corresponds to. Questions labeled
 
 To quickly search, try opening your browser's Find in Page search by pressing `ctrl + F`. Then, type the name of the field as it appears in the spreadsheet.
 
+## Built-In Forms on Fire Fields
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Field Name</th>
+    <th class="tg-0lax">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">RowId</td>
+    <td class="tg-0lax">Numerical ID for each data entry.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Completed</td>
+    <td class="tg-0lax">Date of submission completion.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">CompletedBy</td>
+    <td class="tg-0lax">Name of the ACCOUNT that completed the form. **This is not the submitting participant's name!**</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Started</td>
+    <td class="tg-0lax">Date and time the form was started.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Received</td>
+    <td class="tg-0lax">Date and time the submission was received by the database.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">CompletedAt</td>
+    <td class="tg-0lax">Coordinates where the participant completed the form. This can be ignored.</td>
+  </tr>
+</tbody>
+</table>
+
+<!-- CUSTOM DATA FIELDS -->
+## Registration Data Fields
+
 <table class="tg">
 <thead>
   <tr>
