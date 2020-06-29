@@ -13,55 +13,213 @@ See below to see what question each field name corresponds to. Questions labeled
 
 To quickly search, try opening your browser's Find in Page search by pressing `ctrl + F`. Then, type the name of the field as it appears in the spreadsheet.
 
-| Field Name | Question |
-| ---------- | ---------
-| personalInfo | (PAGE) Personal Information |
-| instructions | (INFO) Instructions to user to fill out the form. |
-| dateCurrent | Date |
-| name | Name |
-| personalID | Personal Identification Number |
-| county | In which PA county are you located right now? |
-| streetAddress | Street Address |
-| city | City |
-| state | State |
-| zipCode | ZIP Code |
-| telephone | Telephone |
-| email | Email Address |
-| socialMedia | LinkedIn / Facebook URL |
-| Nav1 | (ACTION) Navigation buttons for Page 1 |
-| demographics | (PAGE) Demographic Information |
-| race | Race / Ethnicity |
-| otherRace | Other race/ethnicity |
-| citizenStatus | Are you a US Citizen? |
-| alienNumber | ALIEN Registration Number |
-| returningCitizen | Are you a returning citizen (ex-offender)? |
-| selectiveService | Are you registered with Selective Service? |
-| veteran | Are you a veteran or active Service member? |
-| Nav2 | (ACTION) Navigation buttons for Page 2 |
-| serviceRecord | (PAGE) Service Record |
-| branchOfService | Branch of Service |
-| typeOfService | Type of Service |
-| discharged | Have you been discharged? |
-| dischargeType | Discharge Type |
-| entryDate | Entry Date |
-| dischargeDate | Discharge Date |
-| serviceDisability | DO you have a Service-connected Disability Rating? |
-| serviceDisabilityRating | Disability Rating Percentage |
-| militarySpouseConditions | Are you the spouse of a veteran who |
-| militarySpouseMarried | Are you still married to the veteran referenced in the previous question? |
-| Nav3 | (ACTION) Navigation buttons for Page 3 |
-| visitReason | (PAGE) Reason for Visit |
-| visitReasonChoice | Why are you here today? |
-| workshop | Workshop: |
-| workshopCustom | Other workshop: |
-| appointment | Appointment: |
-| otherReason | Other: |
-| employerVisit | Are you here to see a specific employer? |
-| specificEmployer | Employer: |
-| circumstancesChoice | Please check all that apply: |
-| Nav4 | (ACTION) Navigation buttons for Page 4 |
-| confirmSubmission | (PAGE) Confirm Submission |
-| submitConfirmInfo | (INFO) Instructions for submission |
-| cwds1 | (INFO) CWDS registration instructions part 1 |
-| cwds2 | (INFO) CWDS registration instructions part 2 |
-| Nav5 | (ACTION) Navigation and submission buttons for Page 5 |
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Field Name</th>
+    <th class="tg-0lax">Question</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">personalInfo</td>
+    <td class="tg-0lax">(PAGE) Personal Information</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">instructions</td>
+    <td class="tg-0lax">(INFO) Instructions to user to fill out the form.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">dateCurrent</td>
+    <td class="tg-0lax">Date</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">name</td>
+    <td class="tg-0lax">Name</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">personalID</td>
+    <td class="tg-0lax">Personal Identification Number</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">county</td>
+    <td class="tg-0lax">In which PA county are you located right now?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">streetAddress</td>
+    <td class="tg-0lax">Street Address</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">city</td>
+    <td class="tg-0lax">City</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">state</td>
+    <td class="tg-0lax">State</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">zipCode</td>
+    <td class="tg-0lax">ZIP Code</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">telephone</td>
+    <td class="tg-0lax">Telephone</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">email</td>
+    <td class="tg-0lax">Email Address</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">socialMedia</td>
+    <td class="tg-0lax">LinkedIn / Facebook URL</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nav1</td>
+    <td class="tg-0lax">(ACTION) Navigation buttons for Page 1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">demographics</td>
+    <td class="tg-0lax">(PAGE) Demographic Information</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">race</td>
+    <td class="tg-0lax">Race / Ethnicity</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">otherRace</td>
+    <td class="tg-0lax">Other race/ethnicity</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">citizenStatus</td>
+    <td class="tg-0lax">Are you a US Citizen?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">alienNumber</td>
+    <td class="tg-0lax">ALIEN Registration Number</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">returningCitizen</td>
+    <td class="tg-0lax">Are you a returning citizen (ex-offender)?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">selectiveService</td>
+    <td class="tg-0lax">Are you registered with Selective Service?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">veteran</td>
+    <td class="tg-0lax">Are you a veteran or active Service member?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nav2</td>
+    <td class="tg-0lax">(ACTION) Navigation buttons for Page 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">serviceRecord</td>
+    <td class="tg-0lax">(PAGE) Service Record</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">branchOfService</td>
+    <td class="tg-0lax">Branch of Service</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">typeOfService</td>
+    <td class="tg-0lax">Type of Service</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">discharged</td>
+    <td class="tg-0lax">Have you been discharged?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">dischargeType</td>
+    <td class="tg-0lax">Discharge Type</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">entryDate</td>
+    <td class="tg-0lax">Entry Date</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">dischargeDate</td>
+    <td class="tg-0lax">Discharge Date</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">serviceDisability</td>
+    <td class="tg-0lax">Do you have a Service-connected Disability Rating?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">serviceDisabilityRating</td>
+    <td class="tg-0lax">Disability Rating Percentage</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">militarySpouseConditions</td>
+    <td class="tg-0lax">Are you the spouse of a veteran who</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">militarySpouseMarried</td>
+    <td class="tg-0lax">Are you still married to the veteran referenced in the previous question?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nav3</td>
+    <td class="tg-0lax">(ACTION) Navigation buttons for Page 3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">visitReason</td>
+    <td class="tg-0lax">(PAGE) Reason for Visit</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">visitReasonChoice</td>
+    <td class="tg-0lax">Why are you here today?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">workshop</td>
+    <td class="tg-0lax">Workshop:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">workshopCustom</td>
+    <td class="tg-0lax">Other workshop:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">appointment</td>
+    <td class="tg-0lax">Appointment:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">otherReason</td>
+    <td class="tg-0lax">Other:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">employerVisit</td>
+    <td class="tg-0lax">Are you here to see a specific employer?</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">specificEmployer</td>
+    <td class="tg-0lax">Employer:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">circumstancesChoice</td>
+    <td class="tg-0lax">Please check all that apply:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nav4</td>
+    <td class="tg-0lax">(ACTION) Navigation buttons for Page 4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">confirmSubmission</td>
+    <td class="tg-0lax">(PAGE) Confirm Submission</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">submitConfirmInfo</td>
+    <td class="tg-0lax">(INFO) Instructions for submission</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">cwds1</td>
+    <td class="tg-0lax">(INFO) CWDS registration instructions part 1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">cwds2</td>
+    <td class="tg-0lax">(INFO) CWDS registration instructions part 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nav5</td>
+    <td class="tg-0lax">(ACTION) Navigation and submission buttons for Page 5</td>
+  </tr>
+</tbody>
+</table>
