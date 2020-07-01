@@ -8,6 +8,6 @@ youtubeId: nTNwzlJ_FSc
 
 # PA CareerLink Registration with Forms on Fire
 
-<a href="/assets/formsonfire/How to Register for CWDS.pdf">Click here to read the PDF CWDS registration guide.</a>
+<a href="/assets/formsonfire/CWDSregister.pdf">Click here to read the PDF CWDS registration guide.</a>
 
 {% include youtubePlayer.html id=page.youtubeId %}
