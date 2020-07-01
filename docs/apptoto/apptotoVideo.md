@@ -6,6 +6,7 @@ nav_order: 6
 youtubeId1: 9M9dCwATRtc
 youtubeId2: TEdwBTxRggM
 youtubeId3: yO8CSCQ4_QQ
+youtubeId4: wQN2CjFiirY
 youtubeId5: A4O200n1UWg
 ---
 
@@ -24,6 +25,8 @@ youtubeId5: A4O200n1UWg
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 ## 4. Tools
+
+{% include youtubePlayer.html id=page.youtubeId4 %}
 
 ## 5. Import CSV
 
