@@ -11,7 +11,7 @@ permalink: docs/apptoto
 
 Apptoto is an appointment scheduling and SMS reminder system. It allows participants to sign up for events and receive reminders in the form of SMS messages, voice calls, and emails. Apptoto easily integrates with multiple calendar systems, like Google Calendar and Outlook.
 
-It is recommended that you read through each tutorial in the order they are presented. Check out the video guides for a visual tour of Apptoto's features.
+It is recommended that you read through each tutorial in the order they are listed. Check out the <a href="/docs/apptotoVideo.md">**video guides**</a> for a narrated tour of Apptoto's features.
 
 ## Tutorials in this Section
 1. **User Interface Introduction** - become familiar with Apptoto's interface

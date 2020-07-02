@@ -30,12 +30,12 @@ Below is the interface for managing appointments in Apptoto.
 <!-- MAKE AN APPOINTMENT -->
 ## How to Create an Appointment
 
-1. Click the Add Appt. button.
+1. Click the **Add Appt.** button.
 1. In the Appointment Editor, enter the information for your appointment.
 
      <a class="image" href="/assets/apptoto/appointmentEditor.png"><img src="/assets/apptoto/appointmentEditor.png" /></a>
 
-1. Click Save to save the appointment details. You will be prompted to enter participants.
+1. Click **Save** to save the appointment details. You will be prompted to enter participants.
 1. Enter any participants you want to add to the event.
 1. If you'd like to add the event to a Signup Page:
      1. In the Appointment Editor's right-hand sidebar, click **Add to Existing Signup Page**.
