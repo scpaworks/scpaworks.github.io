@@ -71,7 +71,7 @@ If you already have an account, you can log in on the Help Desk homepage.
 
 6. Your ticket has submitted successfully when you see the below message:
 
-     <a class="image" href="/assets/helpdesk/ticketSubmitConfirm.png"><img src="/assets/helpdesk/ticketSubmitConfirm.png" /></a>
+     
 
 6. Your ticket will appear on the ticket list. You can view information about it by reading the fields to the right, or by clicking on it to open more details.
 
