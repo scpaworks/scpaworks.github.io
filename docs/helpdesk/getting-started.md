@@ -28,7 +28,7 @@ nav_order: 1
 
      <a class="image" href="/assets/helpdesk/register.png"><img src="/assets/helpdesk/register.png" /></a>
 
-4. Once you complete the registration, you will be redirected to the main Help Desk screen. Here, you can see any tickets you have created and view their status. Most recently updated tickets will appear at the top of the list.
+4. Once you complete the registration, you will be redirected to the main Help Desk screen. Here you can see any tickets you have created and view their status. Most recently updated tickets will appear at the top of the list.
 
      <a class="image" href="/assets/helpdesk/emptyTicketSystem.png"><img src="/assets/helpdesk/emptyTicketSystem.png" /></a>
 
