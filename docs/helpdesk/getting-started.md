@@ -98,7 +98,7 @@ To respond to a ticket:
 1. Click the name of the ticket you want to close to go to its details page.
 2. In the gray toolbar, click the Close button.
 
-<a class="image" href="/assets/helpdesk/controls.png"><img src="/assets/helpdesk/controls.png" /></a>
+     <a class="image" href="/assets/helpdesk/controls.png"><img src="/assets/helpdesk/controls.png" /></a>
 
 3. You will be moved to the ticket list. Your ticket's status should be changed to Closed.
 
