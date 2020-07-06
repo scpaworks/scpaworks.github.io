@@ -83,12 +83,12 @@ If you already have an account, you can log in on the Help Desk homepage.
 
 When you view a ticket's details, responses will be listed in newest to oldest order.
 
-     <a class="image" href="/assets/helpdesk/ticketResponses.png"><img src="/assets/helpdesk/ticketResponses.png" /></a>
+<a class="image" href="/assets/helpdesk/ticketResponses.png"><img src="/assets/helpdesk/ticketResponses.png" /></a>
 
 To respond to a ticket:
 
 1. Click on the desired ticket in the ticket list.
-2. In the <a href="https://en.wikipedia.org/wiki/WYSIWYG#:~:text=In%20computing%2C%20What%20You%20See,web%20page%2C%20or%20slide%20presentation.">WYSIWYG editor<a/>, enter the response you want. You can attach a file using the **Attach file** link below the editor.
+2. In the <a href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG editor<a/>, enter the response you want. You can attach a file using the **Attach file** link below the editor.
 3. If the ticket is ready to be closed, post your new response first. Then, <a href="#how-to-close-a-ticket">close the ticket</a>.
 
 <hr class="divider" />
