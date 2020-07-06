@@ -88,7 +88,7 @@ When you view a ticket's details, responses will be listed in newest to oldest o
 To respond to a ticket:
 
 1. Click on the desired ticket in the ticket list.
-2. In the <a href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG editor<a/>, enter the response you want. You can attach a file using the **Attach file** link below the editor.
+2. In the <a href="https://en.wikipedia.org/wiki/WYSIWYG">WYSIWYG editor, </a> enter the response you want. You can attach a file using the **Attach file** link below the editor.
 3. If the ticket is ready to be closed, post your new response first. Then, <a href="#how-to-close-a-ticket">close the ticket</a>.
 
 <hr class="divider" />
