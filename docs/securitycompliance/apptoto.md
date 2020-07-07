@@ -19,12 +19,12 @@ AWS complies with a number of international cybersecurity standards. Many of the
 
 AWS currently is currently in compliance with the some of the following standards:
 
-* HIPAA - "Includes provisions to protect the security and privacy of protected health information (PHI)." <a href="https://aws.amazon.com/compliance/hipaa-compliance/">(Source)</a>
-* HITECH - 2009 expansion to HIPAA. "HIPAA and HITECH impose requirements related to the use and disclosure of PHI, appropriate safeguards to protect PHI, individual rights, and administrative responsibilities." <a href="https://aws.amazon.com/compliance/hipaa-compliance/">(Source)</a>
-* ISO 9001:2015 - "outlines a process-oriented approach to documenting and reviewing the structure, responsibilities, and procedures required to achieve effective quality management within an organization." <a href="https://aws.amazon.com/compliance/iso-9001-faqs/">(Source)</a>
-* ISO 27001:2013 - "A security management standard that specifies security management best practices and comprehensive security controls ..." <a href="https://aws.amazon.com/compliance/iso-27001-faqs/">(Source)</a>
-* PCI DSS - standard outlining guidelines for any entity that stores, processes, or transmit cardholder data. AWS is certified as a Level 1 Service Provider, the highest level available. <a href="https://aws.amazon.com/compliance/pci-dss-level-1-faqs/">(Source)</a>
-* SOC 1, 2, & 3 - "Independent third-party examination reports that demonstrate how AWS achieves key compliance controls and objectives." <a href="https://aws.amazon.com/compliance/soc-faqs/">(Source)</a>
+* **HIPAA** - "Includes provisions to protect the security and privacy of protected health information (PHI)." <a href="https://aws.amazon.com/compliance/hipaa-compliance/">(Source)</a>
+* **HITECH** - 2009 expansion to HIPAA. "HIPAA and HITECH impose requirements related to the use and disclosure of PHI, appropriate safeguards to protect PHI, individual rights, and administrative responsibilities." <a href="https://aws.amazon.com/compliance/hipaa-compliance/">(Source)</a>
+* **ISO 9001:2015** - "Outlines a process-oriented approach to documenting and reviewing the structure, responsibilities, and procedures required to achieve effective quality management within an organization." <a href="https://aws.amazon.com/compliance/iso-9001-faqs/">(Source)</a>
+* **ISO 27001:2013** - "A security management standard that specifies security management best practices and comprehensive security controls ..." <a href="https://aws.amazon.com/compliance/iso-27001-faqs/">(Source)</a>
+* **PCI DSS** - standard outlining guidelines for any entity that stores, processes, or transmit cardholder data. AWS is certified as a Level 1 Service Provider, the highest level available. <a href="https://aws.amazon.com/compliance/pci-dss-level-1-faqs/">(Source)</a>
+* **SOC 1, 2, & 3** - "Independent third-party examination reports that demonstrate how AWS achieves key compliance controls and objectives." <a href="https://aws.amazon.com/compliance/soc-faqs/">(Source)</a>
 
 For a full list of compliance programs, check out the official AWS compliance center at <a href="https://aws.amazon.com/compliance/programs/">{% raw %}https://aws.amazon.com/compliance/programs/{% endraw %}</a>.
 
