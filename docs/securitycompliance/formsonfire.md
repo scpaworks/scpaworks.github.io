@@ -9,15 +9,15 @@ nav_order: 2
 
 ## Table of Contents
 1. <a href="#hosting-security-and-compliance">Hosting Security and Compliance</a>
-2. <a href="#apptoto-policies">Forms on Fire Policies</a>
+2. <a href="#forms-on-fire-policies">Forms on Fire Policies</a>
 
 ## Hosting Security and Compliance
 
 Forms on Fire is hosted on Microsoft Azure Cloud. Azure is a popular cloud-hosting service by Microsoft with 90+ compliance programs.
 
-Azure complies with a number of international cybersecurity standards. Many of these certifications require an independent agency to audit activities. You can check specific certifying agent details in each certification's source.
+Azure complies with a number of cybersecurity certifications, regulations, and assessments. Many of these programs require an independent agency to audit activities. You can find more explicit details about the agencies and methods used in Microsoft's documentation, sourced below.
 
-Azure currently is currently in compliance with the some of the following standards:
+Azure currently is currently in compliance with the some of the following certifications/regulations:
 
 * **FERPA** - "A US federal law that protects the privacy of students' education records, including personally identifiable and directory information." <a href="https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-ferpa?view=o365-worldwide">(Source)</a>
 * **HIPAA** - "A US healthcare law that establishes requirements for the use, disclosure, and safeguarding of individually identifiable health information." <a href="https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide">(Source)</a>
@@ -47,8 +47,6 @@ The policy is very clear about what information is collected, why and how it's u
 * At any time you can exercise your rights over the data stored and processed in Forms on Fire, including accessing, downloading, and deleting data.
 * Data collected by the App (the data entry form system) is the responsibility of the creator. Forms on Fire does not access data collected by the app.
 * Forms on Fire's website uses Cookies for marketing and user experience purposes
-
-<hr class="divider" />
 
 ### Security and Infrastructure
 

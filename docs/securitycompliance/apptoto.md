@@ -15,9 +15,9 @@ nav_order: 1
 
 Apptoto is entirely hosted on Amazon Web Services (AWS). AWS is a popular cloud hosting service used by many developers to host their web applications.
 
-AWS complies with a number of international cybersecurity standards. Many of these certifications require an independent agency to audit activities. You can check specific certifying agent details in each certification's source.
+AWS complies with a number of cybersecurity certifications, regulations, and assessments.. Many of these programs require an independent agency to audit activities. You can find more explicit details about the agencies and methods used in AWS's documentation, sourced below.
 
-AWS currently is currently in compliance with the some of the following standards:
+AWS currently is currently in compliance with the some of the following certifications/regulations:
 
 * **HIPAA** - "Includes provisions to protect the security and privacy of protected health information (PHI)." <a href="https://aws.amazon.com/compliance/hipaa-compliance/">(Source)</a>
 * **HITECH** - 2009 expansion to HIPAA. "HIPAA and HITECH impose requirements related to the use and disclosure of PHI, appropriate safeguards to protect PHI, individual rights, and administrative responsibilities." <a href="https://aws.amazon.com/compliance/hipaa-compliance/">(Source)</a>
