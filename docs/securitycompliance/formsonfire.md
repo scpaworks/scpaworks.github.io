@@ -33,13 +33,32 @@ For a full list of compliance programs, check out the official Azure compliance 
 
 ## Forms on Fire Policies
 
+### Privacy Policy
+
+View the full policy here: <a href="https://www.formsonfire.com/privacy-policy/">{% raw %}https://www.formsonfire.com/privacy-policy/{% endraw %}</a>
+
+The policy is very clear about what information is collected, why and how it's used, and how it's protected.
+
+#### Key Points
+
+* Data and content created within Forms on Fire are owned wholly by the creator. Forms on Fire does not own or sell users' content.
+* Forms on Fire only collects what information is necessary for operation from its users. This data is not used by Forms on Fire for marketing purposes, and is not disclosed or sold to third parties.
+     * The exact details of how information is shared when necessary is outlined in the Privacy Policy.
+* At any time you can exercise your rights over the data stored and processed in Forms on Fire, including accessing, downloading, and deleting data.
+* Data collected by the App (the data entry form system) is the responsibility of the creator. Forms on Fire does not access data collected by the app.
+* Forms on Fire's website uses Cookies for marketing and user experience purposes
+
+<hr class="divider" />
+
+### Security and Infrastructure
+
 Forms on Fire provides a number of security and compliance details on their <a href="https://www.formsonfire.com/security-infrastructure/">Security & Infrastructure page.</a>
 
-Below is a summary of the most important points.
+#### Key Points
 
-* **Established development procedure** - "Software and environment changes are versioned and committed to source control systems, with continuous integration tools providing automated testing and build procedures."
 * **Data Duplication and Backups** - "Data generated and stored on the platform is replicated between two physical data centers via Azure’s paired region approach."
 * **Disaster Recovery Plans** - "The application architecture follows best practices to ensure failover and recovery can occur across multiple levels and scenarios."
 * **Network and Application Security** - "Server instances run behind Azure’s comprehensive firewall and load balancing solution. Inbound connections from both the Internet and remote management ports are blocked by default, with access tightly restricted to legitimate protocol and traffic only. All firewall configurations are version controlled and peer reviewed as part of the standard change management processes. ... Backend access to platform databases, storage accounts and server instances is restricted to qualified team members only, with all actions performed using Microsoft provided management tools across SSL secured connections."
+* **Data encryption** - all data, passwords in-app, API calls, and web/app interactions are backed by SSL/TLS (HTTPS) or AES 256-bit encryption. Data is encrypted when at rest (in databases, backups, storage, etc.) and in transit (moved between servers) with 256-bit SSL encryption.
 
 Forms on Fire describes all their safeguards and policies in detail at the following link: <a href="https://www.formsonfire.com/security-infrastructure/">{% raw %}https://www.formsonfire.com/security-infrastructure/{% endraw %}</a>
