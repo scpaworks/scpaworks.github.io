@@ -17,7 +17,7 @@ nav_order: 4
 <div class="embed-container">
   <iframe
       src="/assets/policy/comSystems.pdf"
-      width="100%"
+      width="50%"
       height="100%"
       frameborder="0"
       allowfullscreen="1"
