@@ -18,7 +18,7 @@ nav_order: 4
   <iframe
       src="/assets/policy/comSystems.pdf"
       width="50%"
-      height="100%"
+      height="750px"
       frameborder="0"
       allowfullscreen="1"
   >
