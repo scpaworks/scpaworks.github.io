@@ -2,7 +2,7 @@
 title: SCPa Works Tech Policies
 has_children: false
 parent: Security and Compliance
-nav_order: 4
+nav_order: 5
 ---
 
 # SCPa Works Technology Policies
