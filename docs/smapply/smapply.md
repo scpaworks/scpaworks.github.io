@@ -7,6 +7,8 @@ permalink: docs/smapply
 
 # SCPa Works Grant Administration
 
+<img src="/assets/smapply/apply.png" />
+
 The SCPa Works Grant Administration portal is powered by SurveyMonkey Apply (often abbreviated SMApply), a platform for managing grant and scholarship applications, approvals, and awards.
 
 There are three primary roles in SMApply:
