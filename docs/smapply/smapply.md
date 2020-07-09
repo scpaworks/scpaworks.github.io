@@ -16,7 +16,7 @@ There are three primary roles in SMApply:
 
 The tutorials are categorized by user role. Select the appropriate role category on the left to find relevant tutorials.
 
-# Resources
+## Resources
 
 <a href="https://scpaworks.smapply.org/admin">SCPa Works Grant Administration ADMIN Portal</a>
 

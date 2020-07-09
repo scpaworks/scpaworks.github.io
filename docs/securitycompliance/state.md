@@ -8,9 +8,9 @@ nav_order: 4
 # Pennsylvania State Technology Policies
 
 ## Table of Contents
-1. <a href="#ITP-SEC005#Commonwealth#Application#Certification#and#Accreditation">ITP-SEC005 Commonwealth Application Certification and Accreditation</a>
-2. <a href="ITP-SEC019#Policy#and#Procedures#for#Protecting#Commonwealth#Electronic#Data">ITP-SEC019 Policy and Procedures for Protecting Commonwealth Electronic Data</a>
-3. <a href="Encryption#Standards#for#Data#and#Rest">Encryption Standards for Data and Rest</a>
+1. <a href="#ITP-SEC005-Commonwealth-Application-Certification-and-Accreditation">ITP-SEC005 Commonwealth Application Certification and Accreditation</a>
+2. <a href="#ITP-SEC019-Policy-and-Procedures-for-Protecting-Commonwealth-Electronic-Data">ITP-SEC019 Policy and Procedures for Protecting Commonwealth Electronic Data</a>
+3. <a href="#ITP-SEC020-Encryption-Standards-for-Data-at-Rest">ITP-SEC020 Encryption Standards for Data at Rest</a>
 
 <!--------- ITP-SEC005 ------------>
 ## ITP-SEC005 Commonwealth Application Certification and Accreditation
@@ -55,7 +55,7 @@ This policy establishes guidelines for safe electronic transmission, storage, an
 <hr class="divider" />
 
 <!--------- ITP-SEC020 ------------>
-## ITP-SEC020 Encryption Standards for Data and Rest
+## ITP-SEC020 Encryption Standards for Data at Rest
 
 This policy establishes standards for encryption for data at rest.
 
