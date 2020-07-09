@@ -10,6 +10,7 @@ nav_order: 1
 1. <a href="#how-to-access-the-site-dashboard">How to Access the Site Dashboard</a>
 2. <a href="#dashboard-user-interface">Dashboard User Interface</a>
 3. <a href="#program-view-modes">Program View Modes</a>
+4. <a href="#program-actions">Program Actions</a>
 
 <!--------- How to Access Site Dashboard ---------->
 ## How to Access the Site Dashboard
@@ -96,7 +97,7 @@ Let's go over each part of the tile pictured above:
 * **Workflow** - access the workflow settings of the selected program. This also displays how many stages are in the program.
 * **Automations** - Easily access the program automation settings. This also displays how many automations are setup within the program.
 
-### List View
+#### Monitor Mode
 
 <a class="image" href="/assets/smapply/monitorModeTile.png"><img src="/assets/smapply/monitorModeTile.png" /></a>
 
@@ -104,3 +105,24 @@ Let's go over each part of the tile pictured above:
 * **Applications** - Quickly navigate to the Program Dashboard. This also provides a quick view of created and submitted applications within the program.
 * **Application Progress (last 30 days)** - Quickly access the Applications page for this program. This also displays a graph of application activity in the past 30 days. The green line represents applications created, and the blue line represents applications that have been submitted.
 * **Review Completion** - Quickly access the Reivew page for this program. Also displays the percentage of completed reviews for the program. Each bar represents a different review stage.
+
+### List View
+
+<a class="image" href="/assets/smapply/listView.png"><img src="/assets/smapply/listView.png" /></a>
+
+List view displays all programs in a table. Details about each program can be viewed to the left under the information columns. Each column and its purpose is described briefly below.
+
+* **Selection Checkbox** - you can click the checkbox in this column to select the corresponding program. Multiple programs can be selected at once using this method. Bulk actions can be performed with selected programs.
+* **Program Name** - the display name of a program.
+* **Program Status** - the status of a program, usually either *Closed* or *Launched*.
+* **Open Date** - the date when the program opens to applications.
+* **Close Date** - the last day when applicants will be able to complete tasks within the program.
+* **Applications** - how many active applications have been created within the program.
+* **Awarded** - the number of applications that have been awarded.
+* **Reviews** - the number of reviews that have been completed for the program.
+* **...** (More Options) - this is a context menu. Opening it will allow you to perform more actions on the selected program.
+
+<hr class="divider" />
+
+<!--------- Program Actions ---------->
+## Program Actions
