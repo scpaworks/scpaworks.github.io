@@ -12,6 +12,7 @@ nav_order: 1
 2. <a href="#dashboard-user-interface">Dashboard User Interface</a>
 3. <a href="#program-view-modes">Program View Modes</a>
 4. <a href="#program-actions">Program Actions</a>
+5. <a href="#filter-programs-by-status">Filter Programs by Status</a>
 
 <!--------- How to Access Site Dashboard ---------->
 ## How to Access the Site Dashboard
@@ -127,3 +128,49 @@ List view displays all programs in a table. Details about each program can be vi
 
 <!--------- Program Actions ---------->
 ## Program Actions
+
+Actions can be performed on programs, such as duplicating, deleting, and exporting. You can either perform bulk actions (on many programs) or individual actions (on a single program).
+
+Please note that **actions can take time to complete**. For instance, if you choose to duplicate a program, you may need to wait up to 5 minutes to see the copy program. Do not click action buttons multiple times or multiple actions will be performed!
+
+### Performing Actions on Multiple Programs
+1. Select the programs you wish to perform actions on by using the checkbox column to the left of the program's name.
+2. Click the Actions button to see the available actions to perform.
+3. Click the action you wish to perform.
+
+Below is a brief description of each action:
+* **Duplicate** - creates an exact copy of the selected program(s).
+* **Move to Trash** - delete unwanted program(s).
+* **Export** - export program(s) to external files.
+
+### Performing Actions on Individual Programs
+1. Enter list view mode, if not already enabled.
+2. Click the context menu (**...*** in right-most column) to see available actions.
+3. Click the action you want to perform.
+
+Below is a brief description of each action:
+
+* **Launch** - launch (publish) the program.
+* **Workflow/View Dashboard** - this action will display as **Workflow** if the program is in Build Mode, and as **View Dashboard** if the program is in Monitor Mode. *Workflow* will allow you to see the workflow settings for the program, while View *Dashboard* will allow quickly viewing the program's monitoring dashboard.
+* **Export** - export details about the program.
+* **Duplicate** - create a copy of the program.
+* **Move to Trash** - delete the program.
+
+<hr class="divider" />
+
+<!--------- Filter Programs ---------->
+## Filter Programs by Status
+
+1. The filter selection is in the top left corner of the dashboard.
+
+     <img here>
+
+2. Click the filter selection to open the menu. Select the program status by which you want to filter.
+3. The programs will be sorted by their statuses.
+
+### Status Descriptions
+
+* **Active Programs** - All programs not in the Trash
+* **Launched** - Programs that have been published (monitor mode)
+* **Not Yet Launched** - Programs that have not been published
+* **Trashed** - Programs that have been deleted
