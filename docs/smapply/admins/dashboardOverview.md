@@ -145,7 +145,7 @@ Below is a brief description of each action:
 
 ### Performing Actions on Individual Programs
 1. Enter list view mode, if not already enabled.
-2. Click the context menu (**...*** in right-most column) to see available actions.
+2. Click the context menu (**...** in right-most column) to see available actions.
 3. Click the action you want to perform.
 
 Below is a brief description of each action:
@@ -163,7 +163,7 @@ Below is a brief description of each action:
 
 1. The filter selection is in the top left corner of the dashboard.
 
-     <img here>
+     <a class="image" href="/assets/smapply/filters.png"><img src="/assets/smapply/filters.png" /></a>
 
 2. Click the filter selection to open the menu. Select the program status by which you want to filter.
 3. The programs will be sorted by their statuses.
