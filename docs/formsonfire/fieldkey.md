@@ -9,7 +9,7 @@ nav_order: 1
 
 This acts as a reference for what each field name represents. When data is exported from Forms on Fire, it is labeled with its field name, a short code that uniquely identifies that field. Unfortunately, this isn't always the most descriptive label.
 
-See below to see what question each field name corresponds to. Questions labeled (PAGE), (INFO), or (ACTION) are static fields, and do not receive any data from users.
+Check below to see what question each field name corresponds to. Questions labeled (PAGE), (INFO), or (ACTION) are static fields, and do not receive any data from users.
 
 To quickly search, try opening your browser's Find in Page search by pressing `ctrl + F`. Then, type the name of the field as it appears in the spreadsheet.
 

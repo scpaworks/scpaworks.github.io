@@ -3,7 +3,7 @@ title: Admin Dashboard Overview
 has_children: false
 parent: Admins
 permalink: docs/smapply/admins/admindashboard
-nav_order: 1
+nav_order: 2
 ---
 # Admin Dashboard Overview
 
