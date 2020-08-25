@@ -26,6 +26,10 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 3. Click the blue **Download Installer** button.
 4. Continue following the steps in the section appropriate for your operating system.
 
+<a href="#windows">**Windows**</a>
+<a href="#mac-os">**Mac OS**</a>
+<a href="my-os-isnt-listed"**Other**</a>
+
 ### Windows
 5. A executable file (.exe) will download. Open the file by double-clicking it.
 
