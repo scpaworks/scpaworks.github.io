@@ -28,7 +28,7 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 
 <a href="#windows">**Windows**</a>
 <a href="#mac-os">**Mac OS**</a>
-<a href="my-os-isnt-listed"**Other**</a>
+<a href="my-os-isnt-listed">**Other**</a>
 
 ### Windows
 5. A executable file (.exe) will download. Open the file by double-clicking it.
