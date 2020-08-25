@@ -26,11 +26,9 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 3. Click the blue **Download Installer** button.
 4. Continue following the steps in the section appropriate for your operating system.
 
-<a href="#windows">**Windows**</a>
-
-<a href="#mac-os">**Mac OS**</a>
-
-<a href="my-os-isnt-listed">**Other**</a>
+* <a href="#windows">**Windows**</a>
+* <a href="#mac-os">**Mac OS**</a>
+* <a href="my-os-isnt-listed">**Other**</a>
 
 ### Windows
 5. A executable file (.exe) will download. Open the file by double-clicking it.
@@ -59,7 +57,7 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 
 11. Select your ScanSnap model from the list that appears in the window. Click **Start setup** to continue.
 
-          <a class="image" href="/assets/scansnap/winSoftware07.png"><img src="/assets/scansnap/winSoftware07.png" /></a>
+     <a class="image" href="/assets/scansnap/winSoftware07.png"><img src="/assets/scansnap/winSoftware07.png" /></a>
 
 
 12. You will be prompted to connect your scanner to your computer via the provided USB cable. Connect your scanner to the computer. The software will begin checking for the scanner.
@@ -69,13 +67,13 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 
 13. Once the software has successfully detected the scanner, you will see the below page.
 
-          <a class="image" href="/assets/scansnap/winSoftware10.png"><img src="/assets/scansnap/winSoftware10.png" /></a>
+     <a class="image" href="/assets/scansnap/winSoftware10.png"><img src="/assets/scansnap/winSoftware10.png" /></a>
 
 14. (Optional Wi-Fi Setup) If you'd like to connect your scanner to your computer via Wi-Fi, click **Connect via Wi-Fi**. Follow the prompts to connect your scanner. For more detailed steps for this process, see the Mac OS setup.
 
 15. The setup has completed successfully when you see the below page.
 
-          <a class="image" href="/assets/scansnap/winSoftware12.png"><img src="/assets/scansnap/winSoftware12.png" /></a>
+     <a class="image" href="/assets/scansnap/winSoftware12.png"><img src="/assets/scansnap/winSoftware12.png" /></a>
 
 
 ### Mac OS
