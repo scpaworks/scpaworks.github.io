@@ -18,7 +18,7 @@ youtubeID: PT7KOWgmb5U
 
 ScanSnap requires the ScanSnap Home software to be installed to function correctly. Scans can be launched and files organized through the software.
 
-1. <a href="scansnap.com/d/">Click here</a> to open the Fujitsu ScanSnap download center, or navigate to <code>{% raw %}scansnap.com/d/{% endraw %}</code> in your browser.
+1. <a href="http://scansnap.com/d/">Click here</a> to open the Fujitsu ScanSnap download center, or navigate to <code>{% raw %}scansnap.com/d/{% endraw %}</code> in your browser.
 2. Your system type should be automatically detected. If the wrong operating system is listed above the download button, scroll to the bottom of the page and click "Download for other OSes" and select the correct installer for your OS.
 
      <a class="image" href="/assets/scansnap/macSoftware01.png"><img src="/assets/scansnap/macSoftware01.png" /></a>
