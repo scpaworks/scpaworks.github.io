@@ -15,7 +15,9 @@ There are several fake websites using the Fujitsu or ScanSnap name offering soft
 
 ### Official ScanSnap Websites
 **ScanSnap Software Download**: <a href="https://scansnap.fujitsu.com/global/dl/">{% raw %}https://scansnap.fujitsu.com/global/dl/{% endraw %}</a>
+
 **fi Series Software Download**: <a href="http://imagescanner.fujitsu.com/global/dl/">{% raw %}http://imagescanner.fujitsu.com/global/dl/{% endraw %}</a>
+
 **SP Series Software Download**: <a href="http://imagescanner.fujitsu.com/global/dl/index-sps.html">{% raw %}http://imagescanner.fujitsu.com/global/dl/index-sps.html{% endraw %}</a>
 
 ## Tutorials in this Section
