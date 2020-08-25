@@ -7,7 +7,7 @@ permalink: docs/scansnap
 
 # Fujitsu ScanSnap Tutorials
 
-<img src="/assets/scansnap/scansnap.jpg" />
+<img src="/assets/scansnap/scansnap.jpg" width="100px"/>
 
 ## **Important Fake ScanSnap Website Notice**
 
