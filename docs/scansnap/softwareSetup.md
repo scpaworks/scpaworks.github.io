@@ -10,7 +10,9 @@ youtubeID: PT7KOWgmb5U
 
 ## Contents
 1. <a href="#downloading-and-installing-the-scansnap-software">Downloading and Installing the ScanSnap Software</a>
-2.
+     a. <a href="#windows">Windows</a>
+     b. <a href="#mac-os"Mac OS</a>
+     c. <a href="#my-os-isnt-listed"Other</a>
 
 ## Downloading and Installing the ScanSnap Software
 
