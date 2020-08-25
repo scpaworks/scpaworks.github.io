@@ -25,7 +25,50 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 4. Continue following the steps in the section appropriate for your operating system.
 
 ### Windows
-5. Placeholder Windows
+5. A executable file (.exe) will download. Open the file by double-clicking it.
+
+     <a class="image" href="/assets/scansnap/winSoftware01.png"><img src="/assets/scansnap/winSoftware01.png" /></a>
+
+6. The installer will execute. If you are prompted to approve the installer, click Yes. Click **Next** to proceed.
+
+     <a class="image" href="/assets/scansnap/winSoftware02.png"><img src="/assets/scansnap/winSoftware02.png" /></a>
+
+7. Select the **Typical** option for Setup Type, then click **Next**. This will install ScanSnap home to the default location. Only change this if you have a specific reason.
+
+     <a class="image" href="/assets/scansnap/winSoftware03.png"><img src="/assets/scansnap/winSoftware03.png" /></a>
+
+8. A summary of your selected installation settings will appear. Click **Install**.
+
+     <a class="image" href="/assets/scansnap/winSoftware04.png"><img src="/assets/scansnap/winSoftware04.png" /></a>
+
+9. Wait while the installation extracts files.
+
+     <a class="image" href="/assets/scansnap/winSoftware05.png"><img src="/assets/scansnap/winSoftware05.png" /></a>
+
+10. Your firewall will prompt you to allow ScanSnap on your network. This is most often Windows Defender. Make sure to allow ScanSnap on both Private and Public networks. Click **Allow access** to continue.
+
+     <a class="image" href="/assets/scansnap/winSoftware06.png"><img src="/assets/scansnap/winSoftware06.png" /></a>
+
+11. Select your ScanSnap model from the list that appears in the window. Click **Start setup** to continue.
+
+          <a class="image" href="/assets/scansnap/winSoftware07.png"><img src="/assets/scansnap/winSoftware07.png" /></a>
+
+
+12. You will be prompted to connect your scanner to your computer via the provided USB cable. Connect your scanner to the computer. The software will begin checking for the scanner.
+
+     <a class="image" href="/assets/scansnap/winSoftware08.png"><img src="/assets/scansnap/winSoftware08.png" /></a>
+     <a class="image" href="/assets/scansnap/winSoftware09.png"><img src="/assets/scansnap/winSoftware09.png" /></a>
+
+13. Once the software has successfully detected the scanner, you will see the below page.
+
+          <a class="image" href="/assets/scansnap/winSoftware10.png"><img src="/assets/scansnap/winSoftware10.png" /></a>
+
+14. (Optional Wi-Fi Setup) If you'd like to connect your scanner to your computer via Wi-Fi, click **Connect via Wi-Fi**. Follow the prompts to connect your scanner. For more detailed steps for this process, see the Mac OS setup.
+
+15. The setup has completed successfully when you see the below page.
+
+          <a class="image" href="/assets/scansnap/winSoftware12.png"><img src="/assets/scansnap/winSoftware12.png" /></a>
+
 
 ### Mac OS
 5. A disk image file (.dmg) will download. Open the file by double-clicking it.
@@ -85,5 +128,5 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 ### My OS Isn't Listed
 Please contact your IT administrator for one-on-one assistance.
 
-## Video Guides
+# Video Guides
 {% include youtubePlayer.html id=page.youtubeID %}
