@@ -3,7 +3,7 @@ title: Software Setup
 has_children: false
 parent: ScanSnap
 nav_order: 1
-youtubeID: PT7KOWgmb5U
+youtubeID1: Ew3x6LI0TeY
 ---
 
 # ScanSnap Software Setup
@@ -69,7 +69,9 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 
      <a class="image" href="/assets/scansnap/winSoftware10.png"><img src="/assets/scansnap/winSoftware10.png" /></a>
 
-14. (Optional Wi-Fi Setup) If you'd like to connect your scanner to your computer via Wi-Fi, click **Connect via Wi-Fi**. Follow the prompts to connect your scanner. For more detailed steps for this process, see the Mac OS setup.
+14. (Optional Wi-Fi Setup) If you'd like to connect your scanner to your computer via Wi-Fi, click **Connect via Wi-Fi**. Follow the prompts to connect your scanner. When you see the page below, you have successfully setup Wi-Fi scanning.
+
+     <a class="image" href="/assets/scansnap/winSoftware13.png"><img src="/assets/scansnap/winSoftware13.png" /></a>
 
 15. The setup has completed successfully when you see the below page.
 
@@ -135,4 +137,5 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 Please contact your IT administrator for one-on-one assistance.
 
 # Video Guides
-{% include youtubePlayer.html id=page.youtubeID %}
+## Scanner Quick Menu Introduction
+{% include youtubePlayer.html id=page.youtubeID1 %}
