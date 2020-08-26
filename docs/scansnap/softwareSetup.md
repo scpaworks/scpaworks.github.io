@@ -2,7 +2,7 @@
 title: Software Setup
 has_children: false
 parent: ScanSnap
-nav_order: 1
+nav_order: 2
 youtubeID1: Ew3x6LI0TeY
 ---
 
