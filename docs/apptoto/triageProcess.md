@@ -12,7 +12,7 @@ youtubeID: 5e5KW2xRzFo
 1. <a href="#process-diagram">Process Diagram</a>
 2. <a href="#apptoto-scheduling-steps">Apptoto Scheduling Steps</a>
      1. <a href="#strongmethod-1-calendar-view-schedulingstrong">Method 1: Calendar View Scheduling</a>
-     2. <a href="#strongschedulingmethod-2-booking-availability-page-schedulingstrong">Method 2: Booking/Availability Page Scheduling</a>
+     2. <a href="#strongmethod-2-bookingavailability-page-schedulingstrong">Method 2: Booking/Availability Page Scheduling</a>
 3. <a href="#intake-process-video">Intake Process Video</a>
 
 ## Process Diagram
