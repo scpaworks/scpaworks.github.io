@@ -48,6 +48,8 @@ Advantages:
 Disadvantages:
 * Must know the availability of each intake navigator beforehand
 
+**Steps:**
+
 1. Log into the Apptoto portal. You will be automatically redirected to the Appointment Calendar view.
 2. Click **+Add Appt**
 
@@ -71,6 +73,8 @@ Advantages:
 Disadvantages:
 * Can only see one intake navigator's page at a time
 * Participant must do mobile authentication where they are texted a one-time code that must be entered into the system (this can be skipped if the participant does not have a cellphone)
+
+**Steps:**
 
 1. Open the URL of the intake navigator's availability page for which you are scheduling. Example URL: {% raw %}intake_johnsmith.apptoto.com{% endraw %}
 
