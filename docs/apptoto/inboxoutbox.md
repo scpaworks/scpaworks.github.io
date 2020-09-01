@@ -2,7 +2,7 @@
 title: Inbox and Outbox
 parent: Apptoto
 has_children: false
-nav_order: 3
+nav_order: 4
 ---
 
 # Inbox and Outbox

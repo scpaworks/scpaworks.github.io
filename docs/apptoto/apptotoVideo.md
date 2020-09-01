@@ -2,7 +2,7 @@
 title: Video Guides
 parent: Apptoto
 has_children: false
-nav_order: 6
+nav_order: 7
 youtubeId1: 9M9dCwATRtc
 youtubeId2: TEdwBTxRggM
 youtubeId3: yO8CSCQ4_QQ
