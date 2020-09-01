@@ -44,6 +44,7 @@ There are two primary scheduling methods:
 Advantages:
 * Can select from any intake navigator in the system when scheduling
 * Allows rapid appointment scheduling & viewing of all scheduled appointments quickly
+
 Disadvantages:
 * Must know the availability of each intake navigator beforehand
 
@@ -66,6 +67,7 @@ Disadvantages:
 Advantages:
 * Quickly see the availability of intake navigators in a visual format
 * Easy to schedule appointments for a single intake navigator
+
 Disadvantages:
 * Can only see one intake navigator's page at a time
 * Participant must do mobile authentication where they are texted a one-time code that must be entered into the system (this can be skipped if the participant does not have a cellphone)
