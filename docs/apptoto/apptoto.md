@@ -14,12 +14,13 @@ Apptoto is an appointment scheduling and SMS reminder system. It allows particip
 It is recommended that you read through each tutorial in the order they are listed. Check out the <a href="/docs/apptotoVideo.md">**video guides**</a> for a narrated tour of Apptoto's features.
 
 ## Tutorials in this Section
-1. **User Interface Introduction** - become familiar with Apptoto's interface
-2. **Appointments** - learn how to create and manage appointments
-3. **Inbox and Outbox** - learn to view and manage incoming and outgoing messages
-4. **Reminders** - learn how to create and organize automatic reminders
-5. **Tools** - learn about Apptoto's useful tools, such as the Contact book and report generators
-6. **Video Guides** - see Apptoto in action with narrated video tutorials
+1. **Triage Intake Process** - learn the specific steps for the triage intake process
+2. **User Interface Introduction** - become familiar with Apptoto's interface
+3. **Appointments** - learn how to create and manage appointments
+4. **Inbox and Outbox** - learn to view and manage incoming and outgoing messages
+5. **Reminders** - learn how to create and organize automatic reminders
+6. **Tools** - learn about Apptoto's useful tools, such as the Contact book and report generators
+7. **Video Guides** - see Apptoto in action with narrated video tutorials
 
 ## Official Apptoto Resources
 

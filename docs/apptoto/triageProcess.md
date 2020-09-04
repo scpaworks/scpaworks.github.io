@@ -14,6 +14,7 @@ youtubeID: 5e5KW2xRzFo
      1. <a href="#strongmethod-1-calendar-view-schedulingstrong">Method 1: Calendar View Scheduling</a>
      2. <a href="#strongmethod-2-bookingavailability-page-schedulingstrong">Method 2: Booking/Availability Page Scheduling</a>
 3. <a href="#intake-process-video">Intake Process Video</a>
+4. <a href="#setting-intake-navigator-availability">Setting Intake Navigator Availability</a>
 
 ## Process Diagram
 
@@ -76,7 +77,7 @@ Disadvantages:
 
 **Steps:**
 
-1. Open the URL of the intake navigator's availability page for which you are scheduling. Example URL: {% raw %}intake_johnsmith.apptoto.com{% endraw %}
+1. Open the URL of the intake navigator's availability page for which you are scheduling. Example URL: <code>{% raw %}intake_johnsmith.apptoto.com{% endraw %}</code>
 
      1. To find the URLs of all availability pages, click Booking Pages in the Apptoto main navigation to the left.
 
@@ -99,3 +100,31 @@ Disadvantages:
 
 ## Intake Process Video
 {% include youtubePlayer.html id=page.youtubeID %}
+
+## Setting Intake Navigator Availability
+
+1. Click **Booking Pages** on the left-hand navigation menu.
+
+     <a class="image" href="/assets/apptoto/intakeNav1.png"><img src="/assets/apptoto/intakeNav1.png" /></a>
+
+2. Find the booking page that corresponds to the intake navigator you are setting availability for. The URL always follows the same format: <code>{% raw %}https://intake_NavigatorName.apptoto.com{% endraw %}</code>
+
+3. Click the **Settings** button in the Actions column for the intake navigator's availability page. You will be taken to the Booking Page Details page.
+
+     <a class="image" href="/assets/apptoto/intakeNav2.png"><img src="/assets/apptoto/intakeNav2.png" /></a>
+
+4. Click Availability in the toolbar directly under the "Booking Page Details: intake_..." heading.
+
+     <a class="image" href="/assets/apptoto/intakeNav3.png"><img src="/assets/apptoto/intakeNav3.png" /></a>
+
+5. There are two sections to the availability settings. The first (shown below) allows setting available times and filtering events.
+
+     <a class="image" href="/assets/apptoto/intakeNav4.png"><img src="/assets/apptoto/intakeNav4.png" /></a>
+
+     You can use the fields at the bottom ("When" and "Ignore") to filter which events on your calendar count as busy. For example, if you have a weekly appointment called "Staff Meeting" you don't want to appear busy during, you can type "staff meeting" into the "Ignore" field.
+
+6. The second section allows setting holidays. Any days specified will have no available appointment slots.
+
+     <a class="image" href="/assets/apptoto/intakeNav5.png"><img src="/assets/apptoto/intakeNav5.png" /></a>
+
+7. Once you are done setting availability, click **Save** to save your changes.
