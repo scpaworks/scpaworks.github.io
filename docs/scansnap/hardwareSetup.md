@@ -11,11 +11,11 @@ youtubeID: PT7KOWgmb5U
 This guide will assist you in setting up your ScanSnap scanner. **This guide assumes you have a ScanSnap iX1500.** However, these steps remain mostly unchanged for other Fujitsu ScanSnap models. For specifics about your model, check the documentation provided in your box, or search for your model on Fujitsu's website.
 
 ## Contents
-1. Video Setup Guide
-2. Hardware Setup
-     1. Unboxing and Assembly
-     2. Configuring the Scanner
-     3. Next Steps
+1. <a href="#video-setup-guide-windows">Video Setup Guide</a>
+2. <a href="#hardware-setup">Hardware Setup</a>
+     1. <a href="#unboxing-and-assembly">Unboxing and Assembly</a>
+     2. <a href="#configuring-the-scanner">Configuring the Scanner</a>
+     3. <a href="#next-steps">Next Steps</a>
 
 It is recommended that you read the documentation provided in your scanner's box before setup.
 
