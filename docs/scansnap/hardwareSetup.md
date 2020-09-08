@@ -101,4 +101,4 @@ The below video can help get you started with setup for your scanner in most cas
 
 ### Next Steps
 
-Proceed with the <a href="/docs/scansnap/softwareSetup.md"Software Setup Guide here</a>, or check out these supplemental videos for additional tips.
+Proceed with the <a href="/docs/scansnap/softwareSetup.md">Software Setup Guide here</a>, or check out these supplemental videos for additional tips.
