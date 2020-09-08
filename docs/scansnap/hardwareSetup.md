@@ -63,7 +63,7 @@ The below video can help get you started with setup for your scanner in most cas
 
      <a class="image" href="/assets/scansnap/setup05.png"><img src="/assets/scansnap/setup05.png" /></a>
 
-6. (**USB Connection Only**) Enter the displayed URL into your web browser and download the ScanSnap Home software. <a href="/docs/scansnap/softwareSetup.md"Continue following the software tutorial here.</a>
+6. (**USB Connection Only**) Enter the displayed URL into your web browser and download the ScanSnap Home software. <a href=/docs/scansnap/softwareSetup.html>Continue following the software tutorial here.</a>
 
      <a class="image" href="/assets/scansnap/setup06_usb.png"><img src="/assets/scansnap/setup06_usb.png" /></a>
 
@@ -95,10 +95,10 @@ The below video can help get you started with setup for your scanner in most cas
 
      <a class="image" href="/assets/scansnap/setup06_ap7.png"><img src="/assets/scansnap/setup06_ap7.png" /></a>
 
-14. (Wi-Fi AP) Once connection is established, the software download URL will appear (as shown below). Enter the URL into your browser to download the ScanSnap Home software. <a href=/docs/scansnap/softwareSetup.md>Follow the instructions here to continue with software setup.</a>
+14. (Wi-Fi AP) Once connection is established, the software download URL will appear (as shown below). Enter the URL into your browser to download the ScanSnap Home software. <a href=/docs/scansnap/softwareSetup.html>Follow the instructions here to continue with software setup.</a>
 
      <a class="image" href="/assets/scansnap/setup06_ap8.png"><img src="/assets/scansnap/setup06_ap8.png" /></a>
 
 ### Next Steps
 
-Proceed with the <a href="/docs/scansnap/softwareSetup.md">Software Setup Guide here</a>, or check out these supplemental videos for additional tips.
+Proceed with the <a href=/docs/scansnap/softwareSetup.html>Software Setup Guide here</a>, or check out these supplemental videos for additional tips.
