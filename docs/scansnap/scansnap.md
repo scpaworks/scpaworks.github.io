@@ -11,10 +11,12 @@ permalink: docs/scansnap
 
 ## **Important Fake ScanSnap Website Notice**
 
-There are several fake websites using the Fujitsu or ScanSnap name offering software downloads and guides. These are not official websites. Do not download anything that is not on the list of official domains.
+There are several fake websites using the Fujitsu or ScanSnap name offering software downloads and guides. These are not official websites. <b>Do not download anything that is not on the list of official domains below.</b>
+
+<b>All official ScanSnap/Fujitsu domains end with <code>{% raw %}fujitsu.com{% endraw %}</code></b>
 
 ### Official ScanSnap Websites
-**ScanSnap Help Guides**: <a href="https://www.pfu.fujitsu.com/i">{% raw %}https://www.pfu.fujitsu.com/i{% endraw %}</a>
+**ScanSnap Help Guides**: <a href="https://www.pfu.fujitsu.com/en">{% raw %}https://www.pfu.fujitsu.com/en{% endraw %}</a>
 
 **ScanSnap Software Download**: <a href="https://scansnap.fujitsu.com/global/dl/">{% raw %}https://scansnap.fujitsu.com/global/dl/{% endraw %}</a>
 
