@@ -12,6 +12,8 @@ Click any image to see the full size version.
 
 You can navigate among categories using the breadcrumbs above each article.
 
+<img src="/assets/global/breadcrumbs.png" />
+
 You can reach the homepage at any time by clicking the SCPa Works logo in the top-left corner.
 
 ## Support or Contact
