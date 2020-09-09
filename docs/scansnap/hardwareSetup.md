@@ -42,7 +42,7 @@ The below video can help get you started with setup for your scanner in most cas
 2. Unwrap the scanner, AC power cable and adapter, and USB type-B cable from their plastic coverings.
 3. Insert the AC power cable into the AC adapter.
 
-     <img src="https://drive.google.com/file/d/1R5VD8R4JbosgqlSwwyx8OkdLTzMZlc89/view?usp=sharing" />
+     <iframe src="https://drive.google.com/file/d/1R5VD8R4JbosgqlSwwyx8OkdLTzMZlc89/preview" width="640" height="480"></iframe>
 
 4. Plug the USB type-B cable into the scanner and your computer. Plug the type-B end into the scanner, and the USB end into your computer.
 5. Make sure you remove all tape from the scanner and remove the protective card inside.
