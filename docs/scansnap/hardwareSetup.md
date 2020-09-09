@@ -4,6 +4,8 @@ has_children: false
 parent: ScanSnap
 nav_order: 1
 youtubeID: PT7KOWgmb5U
+driveGif2:
+driveGif3:
 ---
 
 # ScanSnap Hardware Setup
@@ -16,6 +18,7 @@ This guide will assist you in setting up your ScanSnap scanner. **This guide ass
      1. <a href="#unboxing-and-assembly">Unboxing and Assembly</a>
      2. <a href="#configuring-the-scanner">Configuring the Scanner</a>
      3. <a href="#next-steps">Next Steps</a>
+3. <a href="#attributions">Attributions</a>
 
 It is recommended that you read the documentation provided in your scanner's box before setup.
 
@@ -38,9 +41,17 @@ The below video can help get you started with setup for your scanner in most cas
      8. License certificate for *Kofax/Nuance Power PDF* <img src="/assets/scansnap/8kofaxPDFlic.png" />
 2. Unwrap the scanner, AC power cable and adapter, and USB type-B cable from their plastic coverings.
 3. Insert the AC power cable into the AC adapter.
+
+     <img src="https://drive.google.com/file/d/1R5VD8R4JbosgqlSwwyx8OkdLTzMZlc89/view?usp=sharing" />
+
 4. Plug the USB type-B cable into the scanner and your computer. Plug the type-B end into the scanner, and the USB end into your computer.
 5. Make sure you remove all tape from the scanner and remove the protective card inside.
+
+     <img src="https://drive.google.com/file/d/1U5qNugrDg9rO8HfoVXzFvNXeBljqWEhT/view?usp=sharing" />
+
 6. Open the scanner and ensure the screen lights up, then proceed to Configuring the Scanner.
+
+     <img src="https://drive.google.com/file/d/1AnxFxLM8KAtr6ghg9cHyFqs6MqgGK-56/view?usp=sharing" />
 
 ### Configuring the Scanner
 1. Before you configure the software on your computer, you'll need to set up the ScanSnap. On the first screen that appears, select your preferred language.
@@ -102,3 +113,11 @@ The below video can help get you started with setup for your scanner in most cas
 ### Next Steps
 
 Proceed with the <a href=/docs/scansnap/softwareSetup.html>Software Setup Guide here</a>, or check out these supplemental videos for additional tips.
+
+## Attributions
+
+Animated GIFs created from adapted footage from the following sources, listed in order of appearance in the article:
+
+Setting up your ScanSnap iX1500 using Windows and USB. Fujitsu ScanSnap US (2020). Source: <a href="https://youtu.be/PT7KOWgmb5U">{% raw %}https://youtu.be/PT7KOWgmb5U{% endraw %}</a>
+
+Fujitsu ScanSnap iX1500 Unboxing, Setup, and Overview in 4K. uglypoe (2019). Source: <a href="https://youtu.be/UNsQeyUF9Ik">{% raw %}https://youtu.be/UNsQeyUF9Ik{% endraw %}</a>
