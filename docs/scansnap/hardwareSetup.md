@@ -42,16 +42,16 @@ The below video can help get you started with setup for your scanner in most cas
 2. Unwrap the scanner, AC power cable and adapter, and USB type-B cable from their plastic coverings.
 3. Insert the AC power cable into the AC adapter.
 
-     <iframe src="https://drive.google.com/file/d/1R5VD8R4JbosgqlSwwyx8OkdLTzMZlc89/preview" width="640" height="480"></iframe>
+     <iframe src="https://drive.google.com/file/d/1R5VD8R4JbosgqlSwwyx8OkdLTzMZlc89/preview" width="640" height="480">Your web browser does not support iframe content. Please update your browser.</iframe>
 
 4. Plug the USB type-B cable into the scanner and your computer. Plug the type-B end into the scanner, and the USB end into your computer.
 5. Make sure you remove all tape from the scanner and remove the protective card inside.
 
-     <img src="https://drive.google.com/file/d/1U5qNugrDg9rO8HfoVXzFvNXeBljqWEhT/view?usp=sharing" />
+     <iframe src="https://drive.google.com/file/d/1U5qNugrDg9rO8HfoVXzFvNXeBljqWEhT/preview" width="640" height="480">Your web browser does not support iframe content. Please update your browser.</iframe>
 
 6. Open the scanner and ensure the screen lights up, then proceed to Configuring the Scanner.
 
-     <img src="https://drive.google.com/file/d/1AnxFxLM8KAtr6ghg9cHyFqs6MqgGK-56/view?usp=sharing" />
+     <iframe src="https://drive.google.com/file/d/1AnxFxLM8KAtr6ghg9cHyFqs6MqgGK-56/view?usp=sharing" width="640" height="480">Your web browser does not support iframe content. Please update your browser.</iframe>
 
 ### Configuring the Scanner
 1. Before you configure the software on your computer, you'll need to set up the ScanSnap. On the first screen that appears, select your preferred language.
