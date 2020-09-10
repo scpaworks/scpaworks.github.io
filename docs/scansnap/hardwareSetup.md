@@ -47,7 +47,7 @@ The below video can help get you started with setup for your scanner in most cas
 4. Plug the USB type-B cable into the scanner and your computer. Plug the type-B end into the scanner, and the USB end into your computer.
 5. Make sure you remove all tape from the scanner and remove the protective card inside.
 
-     <iframe class="imgur-embed" width="100%" height="507" frameborder="0" src="https://i.imgur.com/sHjvMR9.gifv#embed"></iframe>
+     <iframe class="imgur-embed" width="100%" height="507" frameborder="0" src="https://i.imgur.com/sHjvMR9.gifv#embed">Your browser does not support iframe objects. Please update your browser.</iframe>
 
 6. Open the scanner and ensure the screen lights up, then proceed to Configuring the Scanner.
 
