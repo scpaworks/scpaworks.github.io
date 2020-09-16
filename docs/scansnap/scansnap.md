@@ -25,10 +25,9 @@ There are several fake websites using the Fujitsu or ScanSnap name offering soft
 **SP Series Software Download**: <a href="http://imagescanner.fujitsu.com/global/dl/index-sps.html">{% raw %}http://imagescanner.fujitsu.com/global/dl/index-sps.html{% endraw %}</a>
 
 ## Tutorials in this Section
-1. Hardware Setup
-2. Software Setup
-3. Scanning Documents
-4. Searching Documents
+1. <a href="/docs/scansnap/hardwareSetup.html">Hardware Setup</a>
+2. <a href="/docs/scansnap/softwareSetup.html">Software Setup</a>
+3. <a href="/docs/scansnap/usingScanSnap.html">Using ScanSnap</a>
 
 ## Official ScanSnap Resources
 <a href="https://www.fujitsu.com/global/support/products/computing/peripheral/scanners/scansnap/">ScanSnap Support Page</a>
