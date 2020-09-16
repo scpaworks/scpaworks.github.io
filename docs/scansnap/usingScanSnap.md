@@ -3,6 +3,7 @@ title: Using ScanSnap
 has_children: false
 parent: ScanSnap
 nav_order: 3
+youtubeID: pt9GFFiZhaE
 ---
 
 # Using ScanSnap
@@ -52,14 +53,34 @@ This section will provide an overview of the terminology and the user interface 
 2. Click the Scan button in the top-left corner to open the Scan Window.
 
      <a class="image" href="/assets/scansnap/howtoscan1.png"><img src="/assets/scansnap/howtoscan1.png" /></a>
+
 3. Select the Profile you want to use by clicking its icon. Adjust scanning settings if needed.
 4. Click Scan to begin scanning your documents.
 
      <a class="image" href="/assets/scansnap/howtoscan2.gif"><img src="/assets/scansnap/howtoscan2.gif" /></a>
 
+5. Once scanning is completed, your documents will appear in ScanSnap Home. In the below screenshot, the scanned document is outlined in yellow. You can right-click the document to perform actions or view its properties in the right-hand sidebar.
+
+     <a class="image" href="/assets/scansnap/howtoscan3.png"><img src="/assets/scansnap/howtoscan3.png" /></a>
+
 <hr class="divider" />
 
 ## How to Scan from the Scanner
+
+1. Open the scanner lid and place papers for scanning.
+2. Select your profile and adjust scanning options as needed on the touchscreen.
+3. Tap Scan to begin the scan.
+4. On your computer a scanning window will appear with your imported scans. Set the name of your file, verify the save location is correct, and click **Save**.
+
+     <a class="image" href="/assets/scansnap/scanFromScanner1.png"><img src="/assets/scansnap/scanFromScanner1.png" /></a>
+
+5. You can find your scanned file in the location specified. If you chose to scan to ScanSnap Home, you can find your scanned file in the ScanSnap Home dashboard.
+
+     <a class="image" href="/assets/scansnap/scanFromScanner2.png"><img src="/assets/scansnap/scanFromScanner2.png" /></a>
+
+See a demonstration of the scanning process on the scanner in the below video:
+
+{% include youtubePlayer.html id=page.youtubeID %}
 
 <hr class="divider" />
 
