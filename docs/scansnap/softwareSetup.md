@@ -136,6 +136,8 @@ ScanSnap requires the ScanSnap Home software to be installed to function correct
 ### My OS Isn't Listed
 Please contact your IT administrator for one-on-one assistance.
 
+<hr class="divider" />
+
 # Video Guides
 ## Scanner Quick Menu Introduction
 {% include youtubePlayer.html id=page.youtubeID1 %}

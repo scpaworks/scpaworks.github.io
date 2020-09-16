@@ -25,6 +25,8 @@ The below video can help get you started with setup for your scanner in most cas
 ## Video Setup Guide (Windows)
 {% include youtubePlayer.html id=page.youtubeID %}
 
+<hr class="divider" />
+
 ## Hardware Setup
 
 ### Unboxing and Assembly
