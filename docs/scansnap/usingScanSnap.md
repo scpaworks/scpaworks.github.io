@@ -88,6 +88,9 @@ See a demonstration of the scanning process on the scanner in the below video:
 ## How to Edit Profiles
 
 1. Open the Scan window.
+
+     <a class="image" href="/assets/scansnap/howtoscan1.png"><img src="/assets/scansnap/howtoscan1.png" /></a>
+
 2. Click the profile you wish to edit, then click the Edit Profile button. The Edit Profiles window will appear. Profiles are listed vertically in the top panel. The selected profile's details appear below the Profile listing.
 
      <a class="image" href="/assets/scansnap/editProfiles10.png"><img src="/assets/scansnap/editProfiles10.png" /></a>
