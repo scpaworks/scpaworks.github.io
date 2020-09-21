@@ -16,9 +16,10 @@ This tutorial will guide you through using your ScanSnap Home software to scan p
      2. <a href="#user-interface">User Interface</a>
 2. <a href="#how-to-scan-from-the-pc">How to Scan from the PC</a>
 3. <a href="#how-to-scan-from-the-scanner">How to Scan from the Scanner</a>
-4. How to Edit Profiles
-5. How to Add New Profiles
-6. How to Search Documents
+4. <a href="#how-to-edit-profiles">How to Edit Profiles</a>
+5. <a href="#how-to-add-new-profiles">How to Add New Profiles</a>
+6. <a href="#how-to-search-documents">How to Search Documents</a>
+7. <a href="#scan-settings-in-detail">Scan Settings in Detail</a>
 
 ## Introduction
 
