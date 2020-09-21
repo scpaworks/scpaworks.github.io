@@ -15,7 +15,7 @@ This tutorial will guide you through using your ScanSnap Home software to scan p
      1. <a href="#important-terms">Important Terms</a>
      2. <a href="#user-interface">User Interface</a>
 2. <a href="#how-to-scan-from-the-pc">How to Scan from the PC</a>
-3. How to Scan from the Scanner
+3. <a href="#how-to-scan-from-the-scanner">How to Scan from the Scanner</a>
 4. How to Edit Profiles
 5. How to Add New Profiles
 6. How to Search Documents
@@ -86,10 +86,94 @@ See a demonstration of the scanning process on the scanner in the below video:
 
 ## How to Edit Profiles
 
+1. Open the Scan window.
+2. Click the profile you wish to edit, then click the Edit Profile button. The Edit Profiles window will appear. Profiles are listed vertically in the top panel. The selected profile's details appear below the Profile listing.
+
+     <a class="image" href="/assets/scansnap/editProfiles10.png"><img src="/assets/scansnap/editProfiles10.png" /></a>
+
+3. Edit the details to fit your needs. See <a href="#scan-settings-in-detail">Scan Settings in Detail</a> for more information on settings.
+4. You can rearrange a profile's order in the Profile Bar by clicking and dragging it to a new position.
+
+     <a class="image" href="/assets/scansnap/moveProfile.gif"><img src="/assets/scansnap/moveProfile.gif" /></a>
+
+5. Click **Save** to save your changes.
+
 <hr class="divider" />
 
 ## How to Add New Profiles
 
+1. Open the Scan window.
+
+     <a class="image" href="/assets/scansnap/howtoscan1.png"><img src="/assets/scansnap/howtoscan1.png" /></a>
+
+2. Click the New Profile button.
+
+     <a class="image" href="/assets/scansnap/editProfiles1.png"><img src="/assets/scansnap/editProfiles2.png" /></a>
+
+3. The Add New Profile window will open. The left column contains preset profile templates you can edit. The right column contains the details of your new Profile.
+
+     <a class="image" href="/assets/scansnap/addNewProfile1.png"><img src="/assets/scansnap/addNewProfile1.png" /></a>
+
+4. Click a preset to select it. Then, begin editing your Profile to fit your needs. See <a href="#scan-settings-in-detail">Scan Settings in Detail</a> for more information on settings.
+5. Click **Add** to save your profile. It will appear in the Scan window.
+6. You can rearrange your profile's order in the Scan window by dragging it in the Edit Profiles window.
+
+     <a class="image" href="/assets/scansnap/moveProfile.gif"><img src="/assets/scansnap/moveProfile.gif" /></a>
+
 <hr class="divider" />
 
 ## How to Search Documents
+
+1. Click the Search bar at the top of the ScanSnap Home window to select it.
+2. Type in your search query.
+3. Press Enter to search.
+4. Click the **x** icon at the rightmost end of the search bar to clear your search when you are finished.
+
+     <a class="image" href="/assets/scansnap/search.gif"><img src="/assets/scansnap/search.gif" /></a>
+
+<hr class="divider" />
+
+## Scan Settings in Detail
+
+Below is a description of each adjustable setting for scan Profiles.
+
+### Basic Settings
+
+1. <b>Profile name</b> - a name and description to identify your Profile's purpose
+2. <b>Icon</b> - an icon that appears above your profile. Click it to open the icon picker. Click your desired icon, and then click **Select**.
+
+     <a class="image" href="/assets/scansnap/editProfiles9.png"><img src="/assets/scansnap/editProfiles9.png" /></a>
+
+3. <b>Document type detection</b> - what type of document the scanned papers are considered (receipt, business card, etc.)
+4. <b>Scan settings</b> - adjust color mode, scanning side, image quality, and file format settings
+5. <b>Feed</b> - adjust the feed type (normal, continuous, or manual)
+
+     <a class="image" href="/assets/scansnap/editProfiles6.png"><img src="/assets/scansnap/editProfiles6.png" /></a>
+
+6. <b>Managing options</b> - select where to save your scanned documents
+
+     <a class="image" href="/assets/scansnap/editProfiles7.png"><img src="/assets/scansnap/editProfiles7.png" /></a>
+
+7. <b>Application</b> - select whether to send scanned documents to file or to an application (email, Evernote, Google Drive, etc.)
+
+     <a class="image" href="/assets/scansnap/editProfiles8.png"><img src="/assets/scansnap/editProfiles8.png" /></a>
+
+### Detailed Settings
+
+Accessed by clicking one of the **Option...** buttons on a profile's settings page.
+
+1. <b>Title</b> - adjust settings for the name of the file generated from the scan. Can be generated automatically or specified manually.
+
+     <a class="image" href="/assets/scansnap/editProfiles2.png"><img src="/assets/scansnap/editProfiles2.png" /></a>
+
+2. <b>File format</b> - adjust the file format the scanned document is saved as. Can be either PDF or JPEG. For PDF, click **Option...** to adjust settings for number of PDF files.
+
+     <a class="image" href="/assets/scansnap/editProfiles5.png"><img src="/assets/scansnap/editProfiles5.png" /></a>
+
+3. <b>Scan</b> - adjust settings for scanning. Click **Option...** to adjust advanced size options.
+
+     <a class="image" href="/assets/scansnap/editProfiles3.png"><img src="/assets/scansnap/editProfiles3.png" /></a>
+
+4. <b>File size</b> - change the settings for the compression rate for the files. Low compression means a higher file size and higher quality scan.
+
+     <a class="image" href="/assets/scansnap/editProfiles4.png"><img src="/assets/scansnap/editProfiles4.png" /></a>
