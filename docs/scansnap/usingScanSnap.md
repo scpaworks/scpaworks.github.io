@@ -120,6 +120,9 @@ See a demonstration of the scanning process on the scanner in the below video:
 
 4. Click a preset to select it. Then, begin editing your Profile to fit your needs. See <a href="#scan-settings-in-detail">Scan Settings in Detail</a> for more information on settings.
 5. Click **Add** to save your profile. It will appear in the Scan window.
+
+     <a class="image" href="/assets/scansnap/addNewProfile3.png"><img src="/assets/scansnap/addNewProfile3.png" /></a>
+
 6. You can rearrange your profile's order in the Scan window by dragging it in the Edit Profiles window.
 
      <a class="image" href="/assets/scansnap/moveProfile.gif"><img src="/assets/scansnap/moveProfile.gif" /></a>
