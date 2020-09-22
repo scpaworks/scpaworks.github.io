@@ -112,7 +112,7 @@ See a demonstration of the scanning process on the scanner in the below video:
 
 2. Click the New Profile button.
 
-     <a class="image" href="/assets/scansnap/editProfiles1.png"><img src="/assets/scansnap/editProfiles2.png" /></a>
+     <a class="image" href="/assets/scansnap/editProfiles1.png"><img src="/assets/scansnap/editProfiles1.png" /></a>
 
 3. The Add New Profile window will open. The left column contains preset profile templates you can edit. The right column contains the details of your new Profile.
 
