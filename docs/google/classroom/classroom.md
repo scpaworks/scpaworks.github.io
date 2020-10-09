@@ -2,7 +2,7 @@
 title: Google Classroom
 parent: Google Services
 has_children: true
-nav_order: 1
+nav_order: 2
 permalink: docs/google/classroom
 ---
 
@@ -13,9 +13,9 @@ permalink: docs/google/classroom
 Google Classroom description goes here.
 
 ## Tutorials in this Section
-1. Introduction to Classroom
-2. Using Classroom
-3. Adding Content to Classroom
+1. Introduction to Classroom - learn about Classroom's features and navigation basics
+2. Using Classroom - learn to view and interact with content in a Google Classroom
+3. Adding Content to Classroom - learn to create and add content to Classrooms
 4. Video Tutorials
 
 ## Official Google Resources
