@@ -56,7 +56,7 @@ If you are not signed into your Google account, make sure you login. If you do n
 
 1. While using Google Chrome or while on the Google homepage (google.com), click the All Apps button next to your profile picture.
 
-     <a class="image" href="/assets/google/classroom/classroomInApps.png"><img src="/assets/google/classroom/classroomInApps.png" /></a>
+     <a class="image" href="/assets/google/classroom/classoomInApps.png"><img src="/assets/google/classroom/classoomInApps.png" /></a>
 
 2. Scroll down until you find Classroom. Click the icon to be taken to Classroom.
 
@@ -66,7 +66,7 @@ If you are not signed into your Google account, make sure you login. If you do n
 
 1. On the Google Classroom homepage, select your desired class by clicking its card.
 
-     <a class="image" href="/assets/google/classroom/classCardClick.png"><img width="100px" src="/assets/google/classroom/classCardClick.png" /></a>
+     <a class="image" href="/assets/google/classroom/classCardClick.png"><img width="300px" src="/assets/google/classroom/classCardClick.png" /></a>
 
 2. You will be taken to the Class homepage.
 
