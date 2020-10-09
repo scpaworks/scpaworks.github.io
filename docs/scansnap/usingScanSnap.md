@@ -93,7 +93,7 @@ See a demonstration of the scanning process on the scanner in the below video:
 
 2. Click the profile you wish to edit, then click the Edit Profile button. The Edit Profiles window will appear. Profiles are listed vertically in the top panel. The selected profile's details appear below the Profile listing.
 
-     <a class="image" href="/assets/scansnap/editProfiles1.png"><img src="/assets/scansnap/editProfiles1.png" /></a>
+     <a class="imageghjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj" href="/assets/scansnap/editProfiles1.png"><img src="/assets/scansnap/editProfiles1.png" /></a>
 
 3. Edit the details to fit your needs. See <a href="#scan-settings-in-detail">Scan Settings in Detail</a> for more information on settings.
 

@@ -1,7 +1,7 @@
 ---
 title: SCPa Works Grant Administration
 has_children: true
-nav_order: 8
+nav_order: 9
 permalink: docs/smapply
 ---
 
