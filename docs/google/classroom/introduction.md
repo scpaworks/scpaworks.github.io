@@ -23,11 +23,15 @@ Classroom is primarily designed for teachers to distribute assignments and files
 
 Classroom is offered as a free Google service. It can be accessed by visiting <a href="https://classroom.google.com">classroom.google.com</a>.
 
+<hr class="divider" />
+
 ## Why Use Classroom?
 
 Classroom offers comparitive features to other learning management system (LMS) platforms such as Canvas, Blackboard, or Moodle. While not as comprehensive of competitors, Google Classroom has many of the basic features needed for an LMS and it's <b>free</b>!
 
 Classroom is backed by Google's expertise in data security. For more details about how Google protects data and their servers, visit the <a href="/docs/securitycompliance/gsuite.html">Security and Compliance Gsuite</a> section.
+
+<hr class="divider" />
 
 ## Getting Started with Classroom
 
@@ -48,19 +52,33 @@ If you are not signed into your Google account, make sure you login. If you do n
 
      <a class="image" href="/assets/google/classroom/classroomLanding.png"><img src="/assets/google/classroom/classroomLanding.png" /></a>
 
+#### Method 2: Google Apps Access
+
+1. While using Google Chrome or while on the Google homepage (google.com), click the All Apps button next to your profile picture.
+
+     <a class="image" href="/assets/google/classroom/classroomInApps.png"><img src="/assets/google/classroom/classroomInApps.png" /></a>
+
+2. Scroll down until you find Classroom. Click the icon to be taken to Classroom.
+
+     <a class="image" href="/assets/google/classroom/classroomLanding.png"><img src="/assets/google/classroom/classroomLanding.png" /></a>
+
 ### How to Find a Class
 
 1. On the Google Classroom homepage, select your desired class by clicking its card.
 
-     <a class="image" href="/assets/google/classroom/classCardClick.png"><img src="/assets/google/classroom/classCardClick.png" /></a>
+     <a class="image" href="/assets/google/classroom/classCardClick.png"><img width="100px" src="/assets/google/classroom/classCardClick.png" /></a>
 
 2. You will be taken to the Class homepage.
 
      <a class="image" href="/assets/google/classroom/classpage.png"><img src="/assets/google/classroom/classpage.png" /></a>
 
+<hr class="divider" />
+
 ### How to Create a Class
 
 Please see another article [PLACEHOLDER]
+
+<hr class="divider" />
 
 ## User Interface Guide
 
