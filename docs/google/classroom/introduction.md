@@ -41,9 +41,9 @@ Classroom is backed by Google's expertise in data security. For more details abo
 
 Classroom is divided into two user roles: <b>Teacher</b> and <b>Student</b>.
 
-A <b>Teacher</a> is a manager of classrooms and content. Teachers are able to create classrooms, upload and organize content, assign work to students, and have other management abilities.
+A <b>Teacher</b> is a manager of classrooms and content. Teachers are able to create classrooms, upload and organize content, assign work to students, and have other management abilities.
 
-A <b>Student</a> is a viewer/consumer of classroom content. Students are able to view and interact with content, collaborate in shared spaces, submit assignments, and communicate with fellow students.
+A <b>Student</b> is a viewer/consumer of classroom content. Students are able to view and interact with content, collaborate in shared spaces, submit assignments, and communicate with fellow students.
 
 <hr class="divider" />
 
