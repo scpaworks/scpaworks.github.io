@@ -1,8 +1,8 @@
 ---
-title: Google Docs
+title: Google Drive
 parent: Google Services
 has_children: true
-nav_order: 2
+nav_order: 3
 permalink: docs/google/docs
 ---
 
@@ -10,7 +10,7 @@ permalink: docs/google/docs
 
 <img src="/assets/google/docsLogo.png" style="width:300px;"/>
 
-Google Docs description goes here.
+Cool stuff
 
 ## Tutorials in this Section
 1. Placeholder
