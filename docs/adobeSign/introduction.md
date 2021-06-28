@@ -1,19 +1,16 @@
 ---
-title: Accessing Google Drive
-parent: Google Drive
+title: Adobe Sign Introduction
 has_children: false
 nav_order: 1
-permalink: docs/google/drive/access
+permalink: docs/adobeSign/intro
 ---
 
-# Accessing Google Drive
+# Introduction to Adobe Sign
 
-<img src="/assets/google/driveLogo.png" style="width:300px;"/>
 
 ## Table of Contents
-1. <a href="#log-into-google">Log Into Google</a>
-2. <a href="#open-google-drive">Open Google Drive</a>
-3. <a href="#next-steps">Next Steps</a>
+
+1. <a href="#next-steps">Next Steps</a>
 
 ## Log into Google
 1. Type <code>www.google.com</code> into the address bar. You will arrive at the Google homepage.
