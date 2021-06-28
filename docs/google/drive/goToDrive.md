@@ -11,19 +11,35 @@ permalink: docs/google/drive/access
 <img src="/assets/google/driveLogo.png" style="width:300px;"/>
 
 ## Table of Contents
-1. <a href="#Log into Google</a>
-2. <a href="#Open Google Drive</a>
+1. <a href="#log-into-google">Log Into Google</a>
+2. <a href="#open-google-drive">Open Google Drive</a>
 3. <a href="#next-steps">Next Steps</a>
 
 ## Log into Google
 1. Go to <a href="https://google.com">google.com</a>.
-2. Click the **blue** **Sign in** button in the upper right corner.  
+2. Click the blue <b>Sign in</b> button in the upper right corner.
+
+<a class="image" href="/assets/google/drive/GoogleSignInButton.png"><img src="/assets/google/drive/GoogleSignInButton.png" /></a>  
+
+3. Enter the email address or phone number associated with your Google account. Then, click the blue <b>Next</b> button.
+
+<a class="image" href="/assets/google/drive/SignInPage.png"><img src="/assets/google/drive/SignInPage.png" /></a>
+
+4. Enter the password for your Google account. Then, click the blue <b>Next</b> button.
+
+ <a class="image" href="/assets/google/drive/GoogleSignInPassword.png"><img src="/assets/google/drive/GoogleSignInPassword.png" /></a>
+
+5. A screen may appear that asks you to add a phone number, home address, or recovery email. To skip this, click the blue text in the bottom left corner that says <b>Not now</b>. Alternatively, a screen may appear that says “Protect your account.” Click the <b>Confirm</b> button in the bottom right corner.
+
+<a class="image" href="/assets/google/drive/GoogleSignInAuth.png"><img src="/assets/google/drive/GoogleSignInAuth.png" /></a>
+
+
 
 <hr class="divider" />
 
 ## Open Google Drive
+1.
 
-Classroom offers comparitive features to other learning management system (LMS) platforms such as Canvas, Blackboard, or Moodle. While not as comprehensive of competitors, Google Classroom has many of the basic features needed for an LMS and it's <b>free</b>!
 
 Classroom is backed by Google's expertise in data security. For more details about how Google protects data and their servers, visit the <a href="/docs/securitycompliance/gsuite.html">Security and Compliance Gsuite</a> section.
 
