@@ -12,7 +12,7 @@ permalink: docs/google/drive/access
 
 ## Table of Contents
 1. <a href="#log-into-google">Log Into Google</a>
-2. <a href="#open-google-drive">Open Google Drive</a>
+2. TEST
 3. <a href="#next-steps">Next Steps</a>
 
 ## Log into Google
@@ -38,10 +38,9 @@ permalink: docs/google/drive/access
 <hr class="divider" />
 
 ## Open Google Drive
-1.
 
 
-Classroom is backed by Google's expertise in data security. For more details about how Google protects data and their servers, visit the <a href="/docs/securitycompliance/gsuite.html">Security and Compliance Gsuite</a> section.
+TEST
 
 <hr class="divider" />
 
