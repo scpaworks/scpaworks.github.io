@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign Introduction
-has_children: false
+title: Adobe Sign
+has_children: true
 nav_order: 1
 permalink: docs/adobeSign/intro
 ---
