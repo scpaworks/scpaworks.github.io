@@ -2,6 +2,7 @@
 title: TABE Getting Started
 parent: TABE
 has_children: false
+permalink: docs/TABE/gettingStarted
 nav_order: 1
 ---
 
