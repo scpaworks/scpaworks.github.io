@@ -1,8 +1,8 @@
 ---
-title: tabe
+title: TABE
 has_children: true
 nav_order: 11
-permalink: docs/tabe
+permalink: docs/TABE
 ---
 
 # Test of Adult Basic Education (TABE) Tutorials
