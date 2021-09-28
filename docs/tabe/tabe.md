@@ -18,6 +18,6 @@ The Test of Adult Basic Education (TABE) is a diagnostic assessment used to meas
 
 ## Official TABE Resources
 
-<p><a href="https://tabetest.com/students-2/tabe-1112/">**TABE Practice Exams**</a></p>
-<p><a href="https://wbte.drcedirect.com/TABE/portals/tabe">**Online Tools Training - Practice using the TABE interface**</a></p>
-<p><a href="https://tabetest.com/educators/tips-and-tricks-educators-community/">**Tips for Taking TABE**</a></p>
+<p><a href="https://tabetest.com/students-2/tabe-1112/">TABE Practice Exams</a></p>
+<p><a href="https://wbte.drcedirect.com/TABE/portals/tabe">*nline Tools Training - Practice using the TABE interface</a></p>
+<p><a href="https://tabetest.com/educators/tips-and-tricks-educators-community/">Tips for Taking TABE</a></p>
