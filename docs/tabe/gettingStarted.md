@@ -1,6 +1,6 @@
 ---
 title: TABE Getting Started
-parent: tabe
+parent: TABE
 has_children: false
 nav_order: 1
 ---
