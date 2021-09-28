@@ -7,7 +7,7 @@ permalink: docs/tabe
 
 # Test of Adult Basic Education (TABE) Tutorials
 
-<img src="/assets/apptoto/logo.png" style="width:220px;"/>
+<img src="/assets/tabe/drc.png" style="width:220px;"/>
 
 The Test of Adult Basic Education (TABE) is a diagnostic assessment used to measure skill levels and aptitude in reading, language, and mathematics. 
 
