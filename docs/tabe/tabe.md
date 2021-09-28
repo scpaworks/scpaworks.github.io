@@ -1,5 +1,5 @@
 ---
-title: TABE
+title: tabe
 has_children: true
 nav_order: 11
 permalink: docs/tabe
@@ -18,6 +18,6 @@ The Test of Adult Basic Education (TABE) is a diagnostic assessment used to meas
 
 ## Official TABE Resources
 
-<a href="https://tabetest.com/students-2/tabe-1112/">**TABE Practice Exams**</a>
-<a href="https://wbte.drcedirect.com/TABE/portals/tabe">**Online Tools Training - Practice using the TABE interface**</a>
-<a href="https://tabetest.com/educators/tips-and-tricks-educators-community/">**Tips for Taking TABE**</a>
+<p><a href="https://tabetest.com/students-2/tabe-1112/">**TABE Practice Exams**</a></p>
+<p><a href="https://wbte.drcedirect.com/TABE/portals/tabe">**Online Tools Training - Practice using the TABE interface**</a></p>
+<p><a href="https://tabetest.com/educators/tips-and-tricks-educators-community/">**Tips for Taking TABE**</a></p>
