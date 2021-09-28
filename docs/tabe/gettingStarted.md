@@ -37,7 +37,7 @@ A Chromebook is a laptop that runs Google's Chrome OS. Chrome OS is primarily de
 <div class="embed-container">
   <iframe
       src="/assets/tabe/chromebookTutorialDRC.pdf"
-      width="50%"
+      width="100%"
       height="750px"
       frameborder="0"
       allowfullscreen="1"
