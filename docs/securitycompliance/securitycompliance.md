@@ -1,7 +1,7 @@
 ---
 title: Security and Compliance
 has_children: true
-nav_order: 8
+nav_order: 10
 permalink: docs/securitycompliance
 ---
 

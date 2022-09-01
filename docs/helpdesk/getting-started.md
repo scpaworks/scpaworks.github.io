@@ -13,6 +13,8 @@ nav_order: 1
 1. <a href="#how-to-respond-to-a-ticket">How to Respond to a Ticket</a>
 1. <a href="#how-to-close-a-ticket">How to Close a Ticket</a>
 
+### This tutorial is under revision. Please be aware that the user interface may differ significantly from the current release.
+
 ## How to Register an Account
 
 1. Navigate to the Ticket System homepage by following the URL you were provided.

@@ -1,8 +1,9 @@
 ---
 title: SCPa Works Grant Administration
 has_children: true
-nav_order: 9
-permalink: docs/smapply
+parent: Legacy
+nav_order: 2
+permalink: docs/legacy/smapply
 ---
 
 # SCPa Works Grant Administration
