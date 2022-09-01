@@ -9,7 +9,7 @@ permalink: docs/TABE
 
 <img src="/assets/tabe/drcInsight.png" style="width:220px;"/>
 
-The Test of Adult Basic Education (TABE) is a diagnostic assessment used to measure skill levels and aptitude in reading, language, and mathematics. 
+The Test of Adult Basic Education (TABE) is a diagnostic assessment used to measure skill levels and aptitude in reading, language, and mathematics.
 
 **If you are trying to take the TABE test provided by your PA CareerLink staff, please click here for assistance: <a href="/docs/TABE/gettingStarted">Getting Started with TABE</a>**
 
